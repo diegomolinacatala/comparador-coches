@@ -67,7 +67,7 @@ def main():
             catalogo = buscador.cargar_catalogo()
             comparar_precios(catalogo)
         elif opcion == "0":
-            print("¡Hasta luego!")
+            print("¡Hasta luego Lucas!")
             break
         else:
             print("Opción no válida, escribe un número del 0 al 4")
