@@ -68,6 +68,27 @@ Campos del formato común: `fuente, id_anuncio, url, marca, modelo, version, ani
 - `financingQuote` viene vacío: no hay cuota mensual. El stock cambia mientras recorres páginas (puede haber repetidos entre páginas).
 - `robots.txt`: para `User-agent: *` solo prohíbe `/reserva`, `/contacto` e `/index.php`, con `Allow: /`.
 
+## Ramas de Git: `dev` y `main`
+
+Desde el 10/11/2026 el repositorio (`github.com/diegomolinacatala/comparador-coches`) tiene dos ramas:
+
+- **`main`** — la versión estable, la que siempre funciona. **Nunca se trabaja ni se hace commit directamente en `main`.**
+- **`dev`** — la rama de desarrollo. Todo el trabajo del día a día se hace aquí.
+
+Forma de trabajar:
+
+1. Antes de empezar: `git checkout dev` y `git pull` para traer lo último de los demás.
+2. Trabajar, probar que funciona (`python recoger.py`, el comparador, etc.) y hacer commit en `dev`.
+3. `git push origin dev`.
+4. Solo cuando lo de `dev` está probado y el grupo está de acuerdo, se junta `dev` en `main` (mejor con un Pull Request `dev` → `main` en GitHub, para que otro lo revise). `main` solo recibe cambios así, nunca a mano.
+5. Si alguien sube algo a `main` por error, hay que traerlo también a `dev` para que las dos ramas no se separen.
+
+Reglas para Claude:
+
+- Antes de cualquier commit, comprobar con `git branch --show-current` que estamos en `dev`. Si estamos en `main`, **parar y avisar**; no hacer commit ni push en `main`.
+- No hacer merge de `dev` en `main`, ni push a `main`, ni push con `--force` a ninguna rama, salvo que se pida expresamente.
+- Antes de cambiar de rama, comprobar con `git status` que no hay cambios sin guardar.
+
 ## Reglas para el código
 
 - **Solo lo visto en clase.** Hasta ahora: `requests` (GET y POST) con cabecera `User-Agent`, HTML, JSON y BeautifulSoup (`find`, `find_all`, `get`, `get_text`, `parent`), y lo que se vaya dando en teoría (la UD3 va de filtrado de datos: pandas, distancias entre cadenas, fechas, OpenRefine). Nada de Selenium, Scrapy, expresiones regulares ni selectores CSS. Si algo no se puede hacer sin salirse de lo dado, **avísame antes**. Los apuntes están en `../TEORÍA` y las prácticas en `../PRÁCTICAS`.
