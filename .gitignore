@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Tests
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Editores y sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Ficheros temporales de Word
+~$*.docx
+
+# Configuración local de Claude Code (la compartida va en .claude/settings.json)
+.claude/settings.local.json
+
+# Catálogo del servidor: se genera al enviar los datos (python enviar.py).
+# Los JSON de cada web (datos/<fuente>.json) sí se suben, como muestra.
+datos/catalogo.json
