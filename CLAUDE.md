@@ -1,127 +1,77 @@
-# CLAUDE.md
+# Proyecto de ATD: comparador de coches de segunda mano
 
-Contexto para Claude Code (y para cualquiera del grupo que llegue nuevo).
+Soy Miguel Oltra, de 2º del Grado en Ciencia de Datos (UPV). Esta carpeta es el código del proyecto de grupo de **Adquisición y Transmisión de Datos (ATD)**, que vale el 60 % de la nota. Trabaja solo dentro de esta carpeta.
 
-## Qué es este proyecto
+Responde siempre en **español**.
 
-Comparador de coches de segunda mano para la asignatura **Adquisición y Transmisión de Datos (ATD)**,
-Grado en Ciencia de Datos, UPV, curso 2026/2027. Junta anuncios de cuatro webs en un formato común,
-los envía a un servidor por HTTP en JSON y un cliente permite buscar con filtros.
+## El proyecto
 
-Equipo y web de la que se encarga cada uno:
+Somos cuatro y cada uno se encarga de una web:
 
-| Integrante | Web | Fichero |
+| Integrante | Web | Extractor |
 |---|---|---|
-| Álvaro Montoya Amores | Flexicar | `flexicar.py` |
-| Manuel Martí Cuñat | OcasionPlus | `ocasionplus.py` |
-| Diego Molina Catalá | AutoHero | `autohero_api.py` |
-| Miguel Oltra González | coches.com | `cochescom.py` |
+| Álvaro Montoya | Flexicar | `flexicar.py` |
+| Manuel Martí | OcasionPlus | `ocasionplus.py` |
+| Diego Molina | AutoHero | `autohero_api.py` |
+| **Miguel Oltra (yo)** | **coches.com** | `cochescom.py` |
 
-Próximas fases: servidor → Álvaro y Diego; cliente → Manuel y Miguel; limpieza, memoria y presentación → todos.
+Objetivo: un **comparador** que junta los anuncios de las cuatro webs en un catálogo común. El usuario mete filtros (presupuesto máximo, marca, modelo, año mínimo, km máximos, combustible, cambio, provincia, tipo de vendedor); el **cliente** los manda en JSON por HTTP a un **servidor** en Python, que busca en el catálogo (un fichero JSON) y devuelve los resultados en JSON. Se pueden ordenar por precio, km o año y agrupar por modelo. Si no hay resultados, se avisa y se ofrecen alternativas cercanas aparte (p. ej. un coche que se pasa 400 € del presupuesto). No se estima precio ni estado del coche.
 
-El documento de referencia es `docs/entregables/Entregable_2.docx` (propuesta y viabilidad, 2/11/2026).
-Las decisiones del proyecto salen de ahí; si algo de este fichero lo contradice, manda el entregable
-y hay que actualizar este fichero.
+## En qué punto estamos (10/11/2026)
 
-## Comandos
+- **Entregable 2 entregado** (`Entregable_2.docx`, fechado el 2/11/2026). Demostró que las cuatro webs se pueden scrapear y que `recoger.py` saca 139 anuncios válidos con 2 páginas por web. CochesOk se descartó (Cloudflare, 403 en todo) y se sustituyó por coches.com.
+- **Ahora toca la siguiente fase.** El reparto del Entregable 2 (servidor Álvaro y Diego, cliente Manuel y Miguel) se puso por poner: **todavía no hemos decidido cómo dividir el trabajo**. No des por hecho qué parte me toca; pregúntame.
 
-```bash
-pip install -r requirements.txt          # requests, beautifulsoup4, lxml, flask, pytest
-python -m pytest                         # todos los tests (sin internet, ~2 s)
-python recoger.py                        # descarga 2 páginas de cada web -> datos/<fuente>.json
-python ver_datos.py                      # compara el primer anuncio de cada JSON
-python servidor.py                       # servidor en http://127.0.0.1:5000 (--host 0.0.0.0 para la red)
-python enviar.py                         # limpia datos/*.json y los manda al servidor
-python cliente.py                        # buscador interactivo (o: --precio-max 12000 --marca seat)
-python flexicar.py                       # cada extractor también se puede ejecutar solo
-```
+Fases que quedan (apartado 6 del Entregable 2):
 
-`recoger.py` hace peticiones reales a las webs (con 3 s de pausa entre ellas): no lo ejecutes en
-bucle ni subas `PAGINAS_POR_WEB` sin motivo.
+3. **Limpieza e integración**: unificar marcas y modelos («Citroën» / «Citroen» / «CITROEN», «Mercedes» / «Mercedes-Benz»), revisar atípicos y quitar repetidos dentro de cada web (no entre webs: pueden ser coches distintos). Encaja con la UD3 de teoría (filtrado de datos).
+4. **Servidor**: recibir lotes en JSON, validarlos, guardarlos y responder a consultas por filtros. Distinguir error de conexión, datos inválidos y búsqueda correcta sin resultados. Aún no se ha elegido librería.
+5. **Cliente**: pedir filtros, enviarlos, mostrar resultados con enlace al anuncio. Primero en el mismo ordenador y luego en dos ordenadores en red.
+6. **Validación y memoria**: contrastar muestras con las webs y terminar la memoria.
 
-## Arquitectura (flujo de los datos)
+Decisiones pendientes del grupo: cómo mostrar la provincia (AutoHero y coches.com venden a toda España), cómo tratar el «Micro Híbrido» (ahora va con los híbridos) y la librería del servidor.
 
-```
-flexicar.py ─┐
-ocasionplus.py ─┤ recoger.py ──> datos/<fuente>.json ──> enviar.py ──HTTP POST /anuncios──> servidor.py
-autohero_api.py ─┤                                       (limpieza.py)                       │
-cochescom.py ─┘                                                                              ▼
-                                                     cliente.py ──HTTP POST /buscar──> catalogo.py
-                                                                                     datos/catalogo.json
-```
+## Archivos
 
-| Fichero | Qué hace |
-|---|---|
-| `esquema.py` | Formato común (Tabla 1 del entregable). `crear_anuncio()` y `validar_anuncio()`. Vocabulario: `COMBUSTIBLES`, `CAMBIOS`, `TIPOS_VENDEDOR`. |
-| `utils.py` | `descargar()` (User-Agent, `ESPERA`=3 s, 3 reintentos), `guardar_json()`, `normalizar_combustible()`, `normalizar_cambio()`. |
-| `provincias.py` | Código postal → provincia, comunidades autónomas y alias («València», «Alacant»…). |
-| `<web>.py` | Un extractor por web. Todos tienen `FUENTE`, `extraer(max_paginas)` y `convertir(coche)`. |
-| `recoger.py` | Ejecuta los cuatro extractores y guarda `datos/<fuente>.json`. |
-| `limpieza.py` | Fase 3: unifica marcas («CITROEN» → «Citroën»), modelos, provincias; quita repetidos e inválidos. |
-| `catalogo.py` | Guardar el catálogo y buscar: filtros, orden, agrupar por modelo, alternativas. Sin HTTP. |
-| `servidor.py` | Fase 4: Flask. `GET /estado`, `POST /anuncios`, `POST /buscar`. Ver `docs/API.md`. |
-| `enviar.py` | Limpia los JSON de `datos/` y los envía al servidor. |
-| `cliente.py` | Fase 5: buscador de consola. |
-| `tests/` | pytest. Sin internet: usan datos con la misma forma que los de las webs. |
+- `recoger.py` — programa principal: ejecuta los cuatro extractores con `PAGINAS_POR_WEB` páginas, cuenta los válidos y guarda `datos/<fuente>.json`.
+- `esquema.py` — formato común: `crear_anuncio()` (14 campos, siempre en el mismo orden) y `validar_anuncio()` (devuelve la lista de problemas). Vocabulario: combustible `gasolina, diesel, hibrido, hibrido_enchufable, electrico, glp, gnc`; cambio `manual, automatico`; vendedor `profesional, particular, desconocido`.
+- `utils.py` — `descargar()` (User-Agent, 3 s de pausa, hasta 3 intentos), `guardar_json()`, `normalizar_combustible()`, `normalizar_cambio()`.
+- `flexicar.py`, `ocasionplus.py`, `autohero_api.py`, `cochescom.py` — misma estructura: `extraer(max_paginas)`, `coches_de_pagina()` (`pedir_pagina()` en AutoHero) y `convertir()`.
+- `ver_datos.py` — muestra el primer anuncio de cada JSON de `datos/`.
+- `*.json` en la raíz — última recogida (10/11/2026): flexicar 18, ocasionplus 40, autohero 48, cochescom 33. Ojo: el código escribe y lee en `datos/`, que ahora no existe; estos JSON están sueltos en la raíz.
+- `requirements.txt` — requests, beautifulsoup4, lxml (lxml hace falta para leer el sitemap XML de Flexicar).
+- `Entregable_2.docx` — el entregable entregado. En él la carpeta se llama `comparador-coches`.
 
-## El formato común (no cambiarlo sin hablarlo con el grupo)
+Uso: `pip install -r requirements.txt` y `python recoger.py` dentro de esta carpeta.
 
-14 campos, siempre en este orden (los crea `crear_anuncio()`):
-`fuente, id_anuncio, url, marca, modelo, version, anio, km, combustible, cambio, precio_contado,
-provincia, tipo_vendedor, fecha_recogida`.
+Campos del formato común: `fuente, id_anuncio, url, marca, modelo, version, anio, km, combustible, cambio, precio_contado, provincia, tipo_vendedor, fecha_recogida`. Siempre el **precio al contado**, nunca el financiado ni la cuota. Si falta un dato se deja vacío, no se inventa. No se guardan datos personales de vendedores.
 
-- `precio_contado` es **siempre el precio al contado**, nunca el financiado ni la cuota. Cada web lo
-  llama distinto (ver `docs/FUENTES.md`): es el error más fácil de cometer.
-- `combustible` ∈ gasolina, diesel, hibrido, hibrido_enchufable, electrico, glp, gnc.
-  `cambio` ∈ manual, automatico. `tipo_vendedor` ∈ profesional, particular, desconocido.
-- Si falta un dato se guarda `None`, **nunca se inventa**. Sin precio o sin modelo el anuncio no entra
-  en el catálogo.
-- No se guardan datos personales de vendedores (nombres, teléfonos).
-- Un anuncio se identifica por `(fuente, id_anuncio)`. El mismo coche en dos webs **no** se elimina.
+## Cómo saca los datos cada web
 
-## Reglas del proyecto
+| Web | Páginas | Dónde están los datos | Precio al contado | Provincia |
+|---|---|---|---|---|
+| Flexicar | Páginas de marca y modelo de Valencia del sitemap (12 coches máx. cada una) | `__NEXT_DATA__` → `initialVehicles` | `cashPrice` (`price` es el financiado) | Valencia fija |
+| OcasionPlus | Listado de Valencia con `?page=N` (20 por página) | JSON-LD (`ItemList` de `Vehicle`) + tarjeta HTML para la ubicación | `offers.price` | Texto de la tarjeta antes del guion |
+| AutoHero | POST a la consulta `searchAdV9AdsV2`, de 24 en 24 (`offset`) | Respuesta JSON | `offerPrice` en céntimos | 2 primeras cifras del CP de la sede |
+| coches.com | Listado general con `?page=N` (20 por página) | `__NEXT_DATA__` → `props.pageProps.classifieds.classifiedList` | `price` (`priceOffer` es el financiado) | `currentProvince` |
 
-**Ética del scraping (lo evalúa la asignatura):**
-- Respetar el `robots.txt` de cada web. Flexicar prohíbe `services.flexicar.es`: por eso se usa el sitemap.
-- Mantener la pausa de `ESPERA` segundos entre peticiones y limitar el número de páginas.
-- No intentar saltarse bloqueos (Cloudflare, captchas, cambiar IP…). Si una web bloquea, se documenta y
-  se cambia de web, como se hizo con CochesOk.
+## Lo que sabemos de coches.com (mi web)
 
-**Estilo de código:**
-- Python sencillo, nombres y comentarios **en español**, como el código que ya hay. Cada integrante
-  tiene que poder explicar en la defensa el código de su parte: nada de abstracciones innecesarias,
-  clases complejas ni librerías nuevas sin motivo.
-- Funciones cortas con docstring que diga qué devuelven. No modificar los datos recibidos: devolver copias.
-- Todo lo que se añada o arregle lleva su test en `tests/`. Antes de subir nada: `python -m pytest`.
-- Al tocar un extractor, comprobar a mano un anuncio en el navegador (precio al contado, km, año,
-  combustible, cambio), como en el apartado 4 del entregable.
+- El listado es `https://www.coches.com/coches-segunda-mano/coches-ocasion.htm`; `/coches-segunda-mano/` es solo una página de presentación.
+- Responde 200 a `requests` con User-Agent; no hace falta Selenium. A veces no acepta la conexión a la primera (ConnectTimeout) y al reintentar responde en 1 s: por eso `descargar()` reintenta.
+- `price` es el **contado** y `priceOffer` el **financiado** (al revés que Flexicar). No vale «el mayor es el contado»: hay coches (un DS 7) con el financiado más alto.
+- El JSON no trae la URL de la ficha: se saca de los `<a>` con `?id=` y se cruza por `visibleId`. Cada coche está enlazado varias veces.
+- El listado mezcla ocasión con km 0 y seminuevos: se descartan con `isKm0`.
+- Todos los híbridos llevan «Gasolina» en el combustible («Híbrido Enchufable Gasolina»): `normalizar_combustible()` mira primero si es híbrido.
+- `coches-ocasion-en-valencia.htm` filtra por **concesionarios con sede en Valencia**, no por dónde está el coche. La provincia real es `currentProvince`.
+- Las marcas vienen en mayúsculas. Puede haber vendedores particulares (`dealer.type == "INDIVIDUAL"`); en las otras tres webs todos son profesionales.
+- `financingQuote` viene vacío: no hay cuota mensual. El stock cambia mientras recorres páginas (puede haber repetidos entre páginas).
+- `robots.txt`: para `User-agent: *` solo prohíbe `/reserva`, `/contacto` e `/index.php`, con `Allow: /`.
 
-**Uso de IA (lo pide la asignatura):** cada vez que se use Claude (u otra IA) para algo del proyecto,
-añadir una fila a `docs/USO_IA.md` (qué hizo la IA y qué hicimos nosotros). Claude: cuando hagas
-cambios en este repo, propón al final la fila correspondiente para ese fichero.
+## Reglas para el código
 
-**Git:** ramas por tarea (`servidor-filtros`, `cliente-menu`…) y Pull Request a `main`; mensajes de
-commit en español y en presente («Añade filtro por comunidad»). No subir `datos/catalogo.json`
-(se genera) ni entornos virtuales.
-
-## Estado (10/11/2026)
-
-- Fase 1 (viabilidad) y Fase 2 (extractores): hechas y documentadas en el Entregable 2.
-- Fase 3 (limpieza): `limpieza.py` hecho. Pendiente: revisar con datos de más páginas si salen marcas
-  o provincias nuevas sin unificar (añadirlas a `MARCAS` en `limpieza.py` o a `ALIAS_PROVINCIAS`).
-- Fase 4 (servidor): hecho con Flask (el entregable decía «librería por decidir»; **el grupo tiene que
-  confirmar Flask**). Persistencia en `datos/catalogo.json`.
-- Fase 5 (cliente): cliente de consola hecho. Pendiente decidir si se hace una interfaz más completa.
-- Fase 6: falta probar cliente y servidor en dos ordenadores distintos, preparar la demo (búsqueda con
-  resultados, sin resultados y con alternativas) y la memoria final.
-
-Decisiones abiertas y tareas: ver la sección «Qué falta» de `README.md`.
-
-## Problemas conocidos
-
-- coches.com a veces no responde al primer intento: `descargar()` reintenta 3 veces.
-- `flexicar.py` necesita `lxml` para leer el sitemap en modo XML.
-- AutoHero y coches.com tienen coches de toda España (casi todos los de AutoHero en Toledo); Flexicar y
-  OcasionPlus solo de Valencia. Por eso existe el filtro `comunidad`.
-- OcasionPlus: algún anuncio sale sin provincia (la tarjeta no aparece en el HTML). Se deja `None`.
-- Las webs cambian: si un extractor devuelve 0 coches, mirar primero si ha cambiado el HTML/JSON.
+- **Solo lo visto en clase.** Hasta ahora: `requests` (GET y POST) con cabecera `User-Agent`, HTML, JSON y BeautifulSoup (`find`, `find_all`, `get`, `get_text`, `parent`), y lo que se vaya dando en teoría (la UD3 va de filtrado de datos: pandas, distancias entre cadenas, fechas, OpenRefine). Nada de Selenium, Scrapy, expresiones regulares ni selectores CSS. Si algo no se puede hacer sin salirse de lo dado, **avísame antes**. Los apuntes están en `../TEORÍA` y las prácticas en `../PRÁCTICAS`.
+- Código **sencillo y comentado en español**: lo tengo que entender y defender delante del profesor.
+- Respetar el `robots.txt` de cada web y mantener la pausa entre peticiones.
+- Los extractores de los demás y el código común (`esquema.py`, `utils.py`, `recoger.py`) son del grupo: no los cambies sin decírmelo, porque afecta a todos.
+- Si no estás seguro de algo, pregunta antes de ejecutar.
