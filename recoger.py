@@ -9,7 +9,7 @@ from esquema import validar_anuncio
 from utils import guardar_json
 
 EXTRACTORES = [flexicar, ocasionplus, autohero_api, cochescom]
-PAGINAS_POR_WEB = 2
+PAGINAS_POR_WEB = 10
 
 
 def recoger(paginas=PAGINAS_POR_WEB):
