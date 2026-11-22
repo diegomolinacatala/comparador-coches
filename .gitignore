@@ -28,3 +28,5 @@ Thumbs.db
 # Catálogo del servidor: se genera al enviar los datos (python enviar.py).
 # Los JSON de cada web (datos/<fuente>.json) sí se suben, como muestra.
 datos/catalogo.json
+# Catálogo que guarda el servidor al recibirlo del cliente
+datos/catalogo_servidor.json
