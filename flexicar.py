@@ -40,7 +40,7 @@ def convertir(coche):
         marca=coche["brand"],
         modelo=coche["model"],
         version=coche["version"],
-        anio=coche["year"],
+        año=coche["year"],
         km=coche["km"],
         combustible=normalizar_combustible(coche["fuel"]),
         cambio=normalizar_cambio(coche["transmission"]),

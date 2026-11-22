@@ -96,7 +96,7 @@ def convertir(coche):
         marca=coche["manufacturer"],
         modelo=coche["model"],
         version=version,
-        anio=coche.get("firstRegistrationYear"),
+        año=coche.get("firstRegistrationYear"),
         km=coche["mileage"]["distance"],
         combustible=combustible,
         cambio=CAMBIOS.get(coche["gearType"]),

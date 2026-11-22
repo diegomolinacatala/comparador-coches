@@ -73,7 +73,7 @@ def convertir(coche):
         marca=marca,
         modelo=modelo,
         version=version,
-        anio=int(coche["productionDate"][:4]),  # "2016-03-31T00:00..." -> 2016
+        año=int(coche["productionDate"][:4]),  # "2016-03-31T00:00..." -> 2016
         km=int(coche["mileageFromOdometer"]["value"]),
         combustible=normalizar_combustible(coche["fuelType"]),
         cambio=normalizar_cambio(coche["vehicleTransmission"]),

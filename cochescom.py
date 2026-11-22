@@ -46,9 +46,9 @@ def coches_de_pagina(html):
 
 def convertir(coche):
     """Pasa un coche de coches.com al formato común."""
-    anio = None
+    año = None
     if coche.get("registration") and coche["registration"].get("year"):
-        anio = int(coche["registration"]["year"])  # viene como texto: "2022"
+        año = int(coche["registration"]["year"])  # viene como texto: "2022"
 
     tipo_vendedor = "profesional"
     if coche.get("dealer") and coche["dealer"].get("type") == "INDIVIDUAL":
@@ -65,7 +65,7 @@ def convertir(coche):
         marca=coche["make"]["name"],
         modelo=coche["model"]["name"],
         version=coche["version"]["name"],
-        anio=anio,
+        año=año,
         km=coche["mileage"]["amount"],
         combustible=normalizar_combustible(coche["fuel"]["name"]),
         cambio=normalizar_cambio(coche["transmission"]["name"]),

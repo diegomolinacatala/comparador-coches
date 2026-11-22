@@ -40,7 +40,7 @@ def pedir_filtros():
     filtros["presupuesto"] = pedir_numero("Presupuesto máximo (€): ")
     filtros["marca"] = pedir_texto("Marca: ")
     filtros["modelo"] = pedir_texto("Modelo: ")
-    filtros["anio_minimo"] = pedir_numero("Año mínimo: ")
+    filtros["año_minimo"] = pedir_numero("Año mínimo: ")
     filtros["km_maximo"] = pedir_numero("Kilómetros máximos: ")
     filtros["combustible"] = pedir_texto("Combustible (gasolina, diesel, hibrido, hibrido_enchufable, electrico): ")
     filtros["cambio"] = pedir_texto("Cambio (manual, automatico): ")
@@ -55,8 +55,8 @@ def cumple_filtros(anuncio, filtros, presupuesto):
         return False
     if filtros["modelo"] is not None and filtros["modelo"] not in anuncio["modelo"].lower():
         return False
-    if filtros["anio_minimo"] is not None:
-        if anuncio["anio"] is None or anuncio["anio"] < filtros["anio_minimo"]:
+    if filtros["año_minimo"] is not None:
+        if anuncio["año"] is None or anuncio["año"] < filtros["año_minimo"]:
             return False
     if filtros["km_maximo"] is not None:
         if anuncio["km"] is None or anuncio["km"] > filtros["km_maximo"]:
@@ -71,9 +71,17 @@ def cumple_filtros(anuncio, filtros, presupuesto):
     return True
 
 
-def precio(anuncio):
-    # Se usa para ordenar los resultados por precio
-    return anuncio["precio_contado"]
+def ordenar_por_precio(anuncios):
+    # Vamos metiendo cada coche en su sitio, de más barato a más caro
+    ordenados = []
+    for anuncio in anuncios:
+        posicion = len(ordenados)
+        for i in range(len(ordenados)):
+            if anuncio["precio_contado"] < ordenados[i]["precio_contado"]:
+                posicion = i
+                break
+        ordenados.insert(posicion, anuncio)
+    return ordenados
 
 
 def buscar(catalogo, filtros):
@@ -81,7 +89,7 @@ def buscar(catalogo, filtros):
     for anuncio in catalogo:
         if cumple_filtros(anuncio, filtros, filtros["presupuesto"]):
             resultados.append(anuncio)
-    resultados.sort(key=precio)
+    resultados = ordenar_por_precio(resultados)
     return resultados
 
 
@@ -95,22 +103,40 @@ def buscar_alternativas(catalogo, filtros):
         if anuncio["precio_contado"] > filtros["presupuesto"]:
             if cumple_filtros(anuncio, filtros, limite):
                 alternativas.append(anuncio)
-    alternativas.sort(key=precio)
+    alternativas = ordenar_por_precio(alternativas)
     return alternativas
 
 
 def mostrar(anuncios, presupuesto=None):
-    for anuncio in anuncios[:MAXIMO_RESULTADOS]:
+    # Muestra los coches de 10 en 10 y pregunta si se quieren ver los siguientes
+    for i in range(len(anuncios)):
+        anuncio = anuncios[i]
         print("\n ", anuncio["marca"], anuncio["modelo"], "-", anuncio["version"])
-        print("   ", anuncio["anio"], "|", anuncio["km"], "km |", anuncio["combustible"], "|",
+        print("   ", anuncio["año"], "|", anuncio["km"], "km |", anuncio["combustible"], "|",
               anuncio["cambio"], "|", anuncio["provincia"])
         texto_precio = "    " + str(anuncio["precio_contado"]) + " € al contado en " + anuncio["fuente"]
         if presupuesto is not None and anuncio["precio_contado"] > presupuesto:
             texto_precio += "  (se pasa " + str(anuncio["precio_contado"] - presupuesto) + " € del presupuesto)"
         print(texto_precio)
         print("   ", anuncio["url"])
-    if len(anuncios) > MAXIMO_RESULTADOS:
-        print("\n  ... y", len(anuncios) - MAXIMO_RESULTADOS, "más")
+
+        # Cada 10 coches, si quedan más, preguntamos si seguir
+        quedan = len(anuncios) - (i + 1)
+        if (i + 1) % MAXIMO_RESULTADOS == 0 and quedan > 0:
+            if quedan == 1:
+                pregunta = "\nQueda 1 coche. ¿Quieres verlo? (Sí/No): "
+            else:
+                pregunta = ("\nQuedan " + str(quedan) + " coches. ¿Quieres ver los siguientes " +
+                            str(min(MAXIMO_RESULTADOS, quedan)) + "? (Sí/No): ")
+
+            # Repetimos la pregunta hasta que responda sí o no
+            respuesta = input(pregunta).strip().lower()
+            while respuesta not in ["sí", "si", "s", "no", "n"]:
+                print("  Responde Sí o No")
+                respuesta = input(pregunta).strip().lower()
+
+            if respuesta in ["no", "n"]:
+                break
 
 
 def ejecutar_busqueda(catalogo):
@@ -118,14 +144,20 @@ def ejecutar_busqueda(catalogo):
     resultados = buscar(catalogo, filtros)
 
     if len(resultados) > 0:
-        print("\nSe han encontrado", len(resultados), "coches (ordenados por precio):")
+        if len(resultados) == 1:
+            print("\nSe ha encontrado 1 coche:")
+        else:
+            print("\nSe han encontrado", len(resultados), "coches (ordenados por precio):")
         mostrar(resultados)
         return
 
     print("\nNo hay coches que cumplan todos los filtros.")
     alternativas = buscar_alternativas(catalogo, filtros)
     if len(alternativas) > 0:
-        print("Pero hay", len(alternativas), "que se pasan un poco del presupuesto:")
+        if len(alternativas) == 1:
+            print("Pero hay 1 que se pasa un poco del presupuesto:")
+        else:
+            print("Pero hay", len(alternativas), "que se pasan un poco del presupuesto:")
         mostrar(alternativas, filtros["presupuesto"])
     else:
         print("Tampoco hay alternativas cercanas. Prueba a quitar algún filtro.")

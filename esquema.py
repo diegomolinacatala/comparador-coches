@@ -12,7 +12,7 @@ CAMBIOS = ["manual", "automatico"]
 TIPOS_VENDEDOR = ["profesional", "particular", "desconocido"]
 
 
-def crear_anuncio(fuente, id_anuncio, url, marca, modelo, version, anio, km,
+def crear_anuncio(fuente, id_anuncio, url, marca, modelo, version, año, km,
                   combustible, cambio, precio_contado, provincia, tipo_vendedor):
     """Devuelve un anuncio (diccionario) con los campos del formato común."""
     return {
@@ -22,14 +22,14 @@ def crear_anuncio(fuente, id_anuncio, url, marca, modelo, version, anio, km,
         "marca": marca,
         "modelo": modelo,
         "version": version,
-        "anio": anio,
+        "año": año,
         "km": km,
         "combustible": combustible,
         "cambio": cambio,
         "precio_contado": precio_contado,
         "provincia": provincia,
         "tipo_vendedor": tipo_vendedor,
-        "fecha_recogida": date.today().isoformat(),
+        "fecha_recogida": str(date.today()),
     }
 
 
@@ -48,7 +48,7 @@ def validar_anuncio(anuncio):
     precio = anuncio.get("precio_contado")
     if not isinstance(precio, (int, float)) or precio <= 0:
         problemas.append("Precio al contado no válido")
-    if not isinstance(anuncio.get("anio"), int):
+    if not isinstance(anuncio.get("año"), int):
         problemas.append("Año no válido")
     if not isinstance(anuncio.get("km"), int) or anuncio["km"] < 0:
         problemas.append("Kilometraje no válido")

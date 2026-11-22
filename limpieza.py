@@ -42,8 +42,8 @@ PROVINCIAS = {
 PRECIO_MINIMO = 500
 PRECIO_MAXIMO = 500000
 KM_MAXIMO = 1000000
-ANIO_MINIMO = 1950
-ANIO_MAXIMO = 2027
+AÑO_MINIMO = 1950
+AÑO_MAXIMO = 2027
 
 
 def cargar_anuncios():
@@ -113,8 +113,8 @@ def es_correcto(anuncio):
         return False
     if anuncio["km"] is not None and anuncio["km"] > KM_MAXIMO:
         return False
-    if anuncio["anio"] is not None:
-        if anuncio["anio"] < ANIO_MINIMO or anuncio["anio"] > ANIO_MAXIMO:
+    if anuncio["año"] is not None:
+        if anuncio["año"] < AÑO_MINIMO or anuncio["año"] > AÑO_MAXIMO:
             return False
     return True
 

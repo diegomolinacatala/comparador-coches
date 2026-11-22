@@ -1,23 +1,16 @@
 """
-Funciones que comparten los cuatro extractores: descargar páginas, guardar
-JSON y pasar combustible y cambio al vocabulario común.
+Funciones que comparten los cuatro extractores: descargar páginas, guardar JSON y pasar combustible y cambio al vocabulario común.
 """
 
 import json
-import os
 import time
-import unicodedata
 
 import requests
 
 # Cabecera de navegador y pausa entre peticiones para no sobrecargar las webs.
-CABECERAS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-                  "(KHTML, like Gecko) Chrome/130.0 Safari/537.36",
-}
+CABECERAS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 ""(KHTML, like Gecko) Chrome/130.0 Safari/537.36",}
 ESPERA = 3
-# coches.com a veces no acepta la conexión a la primera (pasa unos 20 s sin
-# responder y al siguiente intento contesta en 1 s): se reintenta hasta 3 veces.
+# coches.com a veces no acepta la conexión a la primera (pasa unos 20 s sin responder y al siguiente intento contesta en 1 s): se reintenta hasta 3 veces.
 REINTENTOS = 3
 
 
@@ -36,18 +29,17 @@ def descargar(url):
 
 
 def guardar_json(datos, ruta):
-    """Guarda 'datos' en un fichero JSON (crea la carpeta si no existe)."""
-    carpeta = os.path.dirname(ruta)
-    if carpeta:
-        os.makedirs(carpeta, exist_ok=True)
+    """Guarda 'datos' en un fichero JSON (la carpeta datos/ tiene que existir)."""
     with open(ruta, "w", encoding="utf-8") as archivo:
         json.dump(datos, archivo, ensure_ascii=False, indent=2)
 
 
 def sin_tildes(texto):
-    """'Híbrido Enchufable' -> 'hibrido enchufable'."""
-    texto = unicodedata.normalize("NFKD", texto.lower())
-    return texto.encode("ascii", "ignore").decode().strip()
+    """Pasa a minúsculas y quita las tildes: 'Híbrido Enchufable' -> 'hibrido enchufable'."""
+    texto = texto.lower()
+    texto = texto.replace("á", "a").replace("é", "e").replace("í", "i")
+    texto = texto.replace("ó", "o").replace("ú", "u").replace("ü", "u")
+    return texto.strip()
 
 
 def normalizar_combustible(texto):

@@ -18,7 +18,10 @@ for fuente in FUENTES:
     primeros.append(anuncios[0])
 
 print()
-print("campo".ljust(15) + "".join(f.ljust(ANCHO) for f in FUENTES))
+cabecera = "campo".ljust(15)
+for fuente in FUENTES:
+    cabecera += fuente.ljust(ANCHO)
+print(cabecera)
 for campo in primeros[0]:
     if campo in ["fuente", "url"]:
         continue
