@@ -60,11 +60,20 @@ def main():
         elif opcion == "2":
             limpieza.crear_catalogo()
         elif opcion == "3":
-            catalogo = buscador.cargar_catalogo()
+            # Si todavía no se ha creado el catálogo, avisamos en vez de cerrar el programa
+            try:
+                catalogo = buscador.cargar_catalogo()
+            except FileNotFoundError:
+                print("\nPrimero crea el catálogo con la opción 2")
+                continue
             print("Catálogo cargado:", len(catalogo), "coches")
             buscador.ejecutar_busqueda(catalogo)
         elif opcion == "4":
-            catalogo = buscador.cargar_catalogo()
+            try:
+                catalogo = buscador.cargar_catalogo()
+            except FileNotFoundError:
+                print("\nPrimero crea el catálogo con la opción 2")
+                continue
             comparar_precios(catalogo)
         elif opcion == "0":
             print("¡Hasta luego!")

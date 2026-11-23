@@ -26,7 +26,12 @@ def respuesta_correcta(respuesta):
 
 
 def enviar_catalogo(servidor):
-    catalogo = buscador.cargar_catalogo()
+    # Si todavía no se ha creado el catálogo, avisamos en vez de cerrar el programa
+    try:
+        catalogo = buscador.cargar_catalogo()
+    except FileNotFoundError:
+        print("\nPrimero crea el catálogo con la opción 2 de comparador.py")
+        return
     respuesta = requests.post(servidor + "/catalogo", headers=cabeceras, data=json.dumps(catalogo))
     if not respuesta_correcta(respuesta):
         return
