@@ -13,7 +13,7 @@
     "precio_contado": 21499,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -29,7 +29,7 @@
     "precio_contado": 21999,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -45,7 +45,7 @@
     "precio_contado": 14899,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -61,7 +61,7 @@
     "precio_contado": 26499,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -77,7 +77,7 @@
     "precio_contado": 13399,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -93,7 +93,7 @@
     "precio_contado": 39699,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -109,7 +109,7 @@
     "precio_contado": 20099,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -125,7 +125,7 @@
     "precio_contado": 21399,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -141,7 +141,7 @@
     "precio_contado": 15099,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -157,7 +157,7 @@
     "precio_contado": 31299,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -173,7 +173,7 @@
     "precio_contado": 13799,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -189,7 +189,7 @@
     "precio_contado": 17099,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -205,7 +205,7 @@
     "precio_contado": 17399,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -221,7 +221,7 @@
     "precio_contado": 36699,
     "provincia": "Jaén",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -237,7 +237,7 @@
     "precio_contado": 13799,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -253,7 +253,7 @@
     "precio_contado": 11899,
     "provincia": "Asturias",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -269,7 +269,7 @@
     "precio_contado": 20499,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -285,7 +285,7 @@
     "precio_contado": 13299,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -301,39 +301,7 @@
     "precio_contado": 23599,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
-  },
-  {
-    "fuente": "autohero",
-    "id_anuncio": "13f7623c-30ea-417b-857a-22485ca39c1f",
-    "url": "https://www.autohero.com/es/renault-arkana/id/13f7623c-30ea-417b-857a-22485ca39c1f/",
-    "marca": "Renault",
-    "modelo": "Arkana",
-    "version": "1.6 Hybrid E-Tech R.S. Line",
-    "año": 2022,
-    "km": 34273,
-    "combustible": "hibrido",
-    "cambio": "automatico",
-    "precio_contado": 18699,
-    "provincia": "Toledo",
-    "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
-  },
-  {
-    "fuente": "autohero",
-    "id_anuncio": "513bbc92-b710-4377-b31e-441f33738dd4",
-    "url": "https://www.autohero.com/es/volkswagen-passat/id/513bbc92-b710-4377-b31e-441f33738dd4/",
-    "marca": "Volkswagen",
-    "modelo": "Passat",
-    "version": "2.0 TDI Sport BlueMotion Tech",
-    "año": 2016,
-    "km": 91945,
-    "combustible": "diesel",
-    "cambio": "automatico",
-    "precio_contado": 16999,
-    "provincia": "Toledo",
-    "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -349,23 +317,23 @@
     "precio_contado": 30499,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "866184a1-6bdd-4e55-bd63-08c4b8f5690a",
-    "url": "https://www.autohero.com/es/toyota-yaris-cross/id/866184a1-6bdd-4e55-bd63-08c4b8f5690a/",
-    "marca": "Toyota",
-    "modelo": "Yaris Cross",
-    "version": "1.5 Hybrid Active Tech",
-    "año": 2022,
-    "km": 68662,
-    "combustible": "hibrido",
+    "id_anuncio": "513bbc92-b710-4377-b31e-441f33738dd4",
+    "url": "https://www.autohero.com/es/volkswagen-passat/id/513bbc92-b710-4377-b31e-441f33738dd4/",
+    "marca": "Volkswagen",
+    "modelo": "Passat",
+    "version": "2.0 TDI Sport BlueMotion Tech",
+    "año": 2016,
+    "km": 91945,
+    "combustible": "diesel",
     "cambio": "automatico",
-    "precio_contado": 22499,
+    "precio_contado": 16999,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -381,23 +349,23 @@
     "precio_contado": 22299,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "03a30e61-6a56-4f70-8840-47ef82aa14ae",
-    "url": "https://www.autohero.com/es/seat-arona/id/03a30e61-6a56-4f70-8840-47ef82aa14ae/",
-    "marca": "Seat",
-    "modelo": "Arona",
-    "version": "1.6 TDI FR",
-    "año": 2018,
-    "km": 67655,
-    "combustible": "diesel",
-    "cambio": "manual",
-    "precio_contado": 14499,
+    "id_anuncio": "866184a1-6bdd-4e55-bd63-08c4b8f5690a",
+    "url": "https://www.autohero.com/es/toyota-yaris-cross/id/866184a1-6bdd-4e55-bd63-08c4b8f5690a/",
+    "marca": "Toyota",
+    "modelo": "Yaris Cross",
+    "version": "1.5 Hybrid Active Tech",
+    "año": 2022,
+    "km": 68662,
+    "combustible": "hibrido",
+    "cambio": "automatico",
+    "precio_contado": 22499,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -413,23 +381,23 @@
     "precio_contado": 14699,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "0823d151-022a-45ef-a35b-bc6a3635ea65",
-    "url": "https://www.autohero.com/es/opel-mokka-x/id/0823d151-022a-45ef-a35b-bc6a3635ea65/",
-    "marca": "Opel",
-    "modelo": "Mokka X",
-    "version": "1.4 Turbo Excellence Start/Stop",
-    "año": 2017,
-    "km": 129092,
-    "combustible": "gasolina",
+    "id_anuncio": "03a30e61-6a56-4f70-8840-47ef82aa14ae",
+    "url": "https://www.autohero.com/es/seat-arona/id/03a30e61-6a56-4f70-8840-47ef82aa14ae/",
+    "marca": "Seat",
+    "modelo": "Arona",
+    "version": "1.6 TDI FR",
+    "año": 2018,
+    "km": 67655,
+    "combustible": "diesel",
     "cambio": "manual",
-    "precio_contado": 10299,
+    "precio_contado": 14499,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -445,23 +413,23 @@
     "precio_contado": 13499,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "18e675cb-742a-49e7-9b75-6b1db3e536fc",
-    "url": "https://www.autohero.com/es/dacia-duster/id/18e675cb-742a-49e7-9b75-6b1db3e536fc/",
-    "marca": "Dacia",
-    "modelo": "Duster",
-    "version": "1.5 Blue dCi Prestige 4x4",
-    "año": 2023,
-    "km": 24775,
-    "combustible": "diesel",
+    "id_anuncio": "0823d151-022a-45ef-a35b-bc6a3635ea65",
+    "url": "https://www.autohero.com/es/opel-mokka-x/id/0823d151-022a-45ef-a35b-bc6a3635ea65/",
+    "marca": "Opel",
+    "modelo": "Mokka X",
+    "version": "1.4 Turbo Excellence Start/Stop",
+    "año": 2017,
+    "km": 129092,
+    "combustible": "gasolina",
     "cambio": "manual",
-    "precio_contado": 20699,
+    "precio_contado": 10299,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -477,23 +445,23 @@
     "precio_contado": 17399,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "bc6bec2a-d3d2-4118-a5df-625f6c93f34c",
-    "url": "https://www.autohero.com/es/peugeot-108/id/bc6bec2a-d3d2-4118-a5df-625f6c93f34c/",
-    "marca": "Peugeot",
-    "modelo": "108",
-    "version": "1.2 PureTech Allure",
-    "año": 2016,
-    "km": 70083,
-    "combustible": "gasolina",
+    "id_anuncio": "18e675cb-742a-49e7-9b75-6b1db3e536fc",
+    "url": "https://www.autohero.com/es/dacia-duster/id/18e675cb-742a-49e7-9b75-6b1db3e536fc/",
+    "marca": "Dacia",
+    "modelo": "Duster",
+    "version": "1.5 Blue dCi Prestige 4x4",
+    "año": 2023,
+    "km": 24775,
+    "combustible": "diesel",
     "cambio": "manual",
-    "precio_contado": 8199,
+    "precio_contado": 20699,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -509,23 +477,23 @@
     "precio_contado": 26899,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "d0ea4d17-168d-43b9-b379-495a9753a18d",
-    "url": "https://www.autohero.com/es/fiat-500-c/id/d0ea4d17-168d-43b9-b379-495a9753a18d/",
-    "marca": "Fiat",
-    "modelo": "500C",
-    "version": "1.0 Mild-Hybrid DolceVita",
-    "año": 2021,
-    "km": 52654,
-    "combustible": "hibrido",
+    "id_anuncio": "bc6bec2a-d3d2-4118-a5df-625f6c93f34c",
+    "url": "https://www.autohero.com/es/peugeot-108/id/bc6bec2a-d3d2-4118-a5df-625f6c93f34c/",
+    "marca": "Peugeot",
+    "modelo": "108",
+    "version": "1.2 PureTech Allure",
+    "año": 2016,
+    "km": 70083,
+    "combustible": "gasolina",
     "cambio": "manual",
-    "precio_contado": 11899,
+    "precio_contado": 8199,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -541,23 +509,23 @@
     "precio_contado": 21299,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "7494d07e-1561-49aa-b3c7-2d487b379c81",
-    "url": "https://www.autohero.com/es/dacia-spring/id/7494d07e-1561-49aa-b3c7-2d487b379c81/",
-    "marca": "Dacia",
-    "modelo": "Spring",
-    "version": "electric drive 48 kW Extreme",
-    "año": 2023,
-    "km": 23103,
-    "combustible": "electrico",
-    "cambio": "automatico",
-    "precio_contado": 13499,
+    "id_anuncio": "d0ea4d17-168d-43b9-b379-495a9753a18d",
+    "url": "https://www.autohero.com/es/fiat-500-c/id/d0ea4d17-168d-43b9-b379-495a9753a18d/",
+    "marca": "Fiat",
+    "modelo": "500C",
+    "version": "1.0 Mild-Hybrid DolceVita",
+    "año": 2021,
+    "km": 52654,
+    "combustible": "hibrido",
+    "cambio": "manual",
+    "precio_contado": 11899,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -573,23 +541,23 @@
     "precio_contado": 50099,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "7b610e94-b909-4bcc-9c2f-d020a0231fe5",
-    "url": "https://www.autohero.com/es/fiat-500-x/id/7b610e94-b909-4bcc-9c2f-d020a0231fe5/",
-    "marca": "Fiat",
-    "modelo": "500X",
-    "version": "1.6 JTDM Pop Star",
-    "año": 2018,
-    "km": 147190,
-    "combustible": "diesel",
-    "cambio": "manual",
-    "precio_contado": 11899,
+    "id_anuncio": "7494d07e-1561-49aa-b3c7-2d487b379c81",
+    "url": "https://www.autohero.com/es/dacia-spring/id/7494d07e-1561-49aa-b3c7-2d487b379c81/",
+    "marca": "Dacia",
+    "modelo": "Spring",
+    "version": "electric drive 48 kW Extreme",
+    "año": 2023,
+    "km": 23103,
+    "combustible": "electrico",
+    "cambio": "automatico",
+    "precio_contado": 13499,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -605,23 +573,23 @@
     "precio_contado": 16799,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "09a03747-9758-4c32-80db-70ff32f75aa0",
-    "url": "https://www.autohero.com/es/opel-combo-life/id/09a03747-9758-4c32-80db-70ff32f75aa0/",
-    "marca": "Opel",
-    "modelo": "Combo Life",
-    "version": "1.5 CDTI INNOVATION",
-    "año": 2019,
-    "km": 109655,
+    "id_anuncio": "7b610e94-b909-4bcc-9c2f-d020a0231fe5",
+    "url": "https://www.autohero.com/es/fiat-500-x/id/7b610e94-b909-4bcc-9c2f-d020a0231fe5/",
+    "marca": "Fiat",
+    "modelo": "500X",
+    "version": "1.6 JTDM Pop Star",
+    "año": 2018,
+    "km": 147190,
     "combustible": "diesel",
     "cambio": "manual",
-    "precio_contado": 11399,
+    "precio_contado": 11899,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -637,23 +605,23 @@
     "precio_contado": 21499,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "fdf124a0-f705-4401-987e-9fd6e8b84190",
-    "url": "https://www.autohero.com/es/kia-niro/id/fdf124a0-f705-4401-987e-9fd6e8b84190/",
-    "marca": "Kia",
-    "modelo": "Niro",
-    "version": "1.6 Hybrid Drive",
+    "id_anuncio": "09a03747-9758-4c32-80db-70ff32f75aa0",
+    "url": "https://www.autohero.com/es/opel-combo-life/id/09a03747-9758-4c32-80db-70ff32f75aa0/",
+    "marca": "Opel",
+    "modelo": "Combo Life",
+    "version": "1.5 CDTI INNOVATION",
     "año": 2019,
-    "km": 118882,
-    "combustible": "hibrido",
-    "cambio": "automatico",
-    "precio_contado": 14399,
+    "km": 109655,
+    "combustible": "diesel",
+    "cambio": "manual",
+    "precio_contado": 11399,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -669,23 +637,23 @@
     "precio_contado": 33599,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "14a75519-4cee-4807-b800-b2358287ba5e",
-    "url": "https://www.autohero.com/es/hyundai-kona/id/14a75519-4cee-4807-b800-b2358287ba5e/",
-    "marca": "Hyundai",
-    "modelo": "Kona",
-    "version": "1.0 T-GDI Essence 2WD",
-    "año": 2020,
-    "km": 19740,
-    "combustible": "gasolina",
-    "cambio": "manual",
-    "precio_contado": 14499,
+    "id_anuncio": "fdf124a0-f705-4401-987e-9fd6e8b84190",
+    "url": "https://www.autohero.com/es/kia-niro/id/fdf124a0-f705-4401-987e-9fd6e8b84190/",
+    "marca": "Kia",
+    "modelo": "Niro",
+    "version": "1.6 Hybrid Drive",
+    "año": 2019,
+    "km": 118882,
+    "combustible": "hibrido",
+    "cambio": "automatico",
+    "precio_contado": 14399,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -701,23 +669,23 @@
     "precio_contado": 22899,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "c18ab3df-f5bb-419f-a15f-bc215117a755",
-    "url": "https://www.autohero.com/es/nissan-qashqai/id/c18ab3df-f5bb-419f-a15f-bc215117a755/",
-    "marca": "Nissan",
-    "modelo": "Qashqai",
-    "version": "1.3 DIG-T Mild-Hybrid Acenta",
-    "año": 2022,
-    "km": 34291,
-    "combustible": "hibrido",
+    "id_anuncio": "14a75519-4cee-4807-b800-b2358287ba5e",
+    "url": "https://www.autohero.com/es/hyundai-kona/id/14a75519-4cee-4807-b800-b2358287ba5e/",
+    "marca": "Hyundai",
+    "modelo": "Kona",
+    "version": "1.0 T-GDI Essence 2WD",
+    "año": 2020,
+    "km": 19740,
+    "combustible": "gasolina",
     "cambio": "manual",
-    "precio_contado": 20399,
+    "precio_contado": 14499,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -733,23 +701,23 @@
     "precio_contado": 17199,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "0e6c4896-9fd3-41f8-84b7-792fdde1cae6",
-    "url": "https://www.autohero.com/es/seat-ibiza/id/0e6c4896-9fd3-41f8-84b7-792fdde1cae6/",
-    "marca": "Seat",
-    "modelo": "Ibiza",
-    "version": "1.0 MPI Style",
-    "año": 2019,
-    "km": 83284,
-    "combustible": "gasolina",
+    "id_anuncio": "c18ab3df-f5bb-419f-a15f-bc215117a755",
+    "url": "https://www.autohero.com/es/nissan-qashqai/id/c18ab3df-f5bb-419f-a15f-bc215117a755/",
+    "marca": "Nissan",
+    "modelo": "Qashqai",
+    "version": "1.3 DIG-T Mild-Hybrid Acenta",
+    "año": 2022,
+    "km": 34291,
+    "combustible": "hibrido",
     "cambio": "manual",
-    "precio_contado": 10499,
+    "precio_contado": 20399,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -765,23 +733,23 @@
     "precio_contado": 9199,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "0fdf6edc-37ff-4f7a-be2c-c3c117586813",
-    "url": "https://www.autohero.com/es/volkswagen-t-7-multivan/id/0fdf6edc-37ff-4f7a-be2c-c3c117586813/",
-    "marca": "Volkswagen",
-    "modelo": "T7 Multivan",
-    "version": "1.4 eHybrid",
-    "año": 2023,
-    "km": 68179,
-    "combustible": "hibrido_enchufable",
-    "cambio": "automatico",
-    "precio_contado": 38099,
+    "id_anuncio": "0e6c4896-9fd3-41f8-84b7-792fdde1cae6",
+    "url": "https://www.autohero.com/es/seat-ibiza/id/0e6c4896-9fd3-41f8-84b7-792fdde1cae6/",
+    "marca": "Seat",
+    "modelo": "Ibiza",
+    "version": "1.0 MPI Style",
+    "año": 2019,
+    "km": 83284,
+    "combustible": "gasolina",
+    "cambio": "manual",
+    "precio_contado": 10499,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -797,23 +765,23 @@
     "precio_contado": 16099,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "58961cee-23b6-4210-982d-f69e5881ddd6",
-    "url": "https://www.autohero.com/es/ds-automobiles-ds-7-crossback/id/58961cee-23b6-4210-982d-f69e5881ddd6/",
-    "marca": "DS Automobiles",
-    "modelo": "DS7 Crossback",
-    "version": "1.6 E-Tense Hybrid Rivoli + 4x2",
-    "año": 2021,
-    "km": 88013,
+    "id_anuncio": "0fdf6edc-37ff-4f7a-be2c-c3c117586813",
+    "url": "https://www.autohero.com/es/volkswagen-t-7-multivan/id/0fdf6edc-37ff-4f7a-be2c-c3c117586813/",
+    "marca": "Volkswagen",
+    "modelo": "T7 Multivan",
+    "version": "1.4 eHybrid",
+    "año": 2023,
+    "km": 68179,
     "combustible": "hibrido_enchufable",
     "cambio": "automatico",
-    "precio_contado": 19899,
+    "precio_contado": 38099,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -829,23 +797,23 @@
     "precio_contado": 17599,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "697ce591-ca87-4193-b5e5-cfc150adf8fd",
-    "url": "https://www.autohero.com/es/volkswagen-polo/id/697ce591-ca87-4193-b5e5-cfc150adf8fd/",
-    "marca": "Volkswagen",
-    "modelo": "Polo",
-    "version": "1.0 A-Polo",
-    "año": 2017,
-    "km": 75466,
-    "combustible": "gasolina",
-    "cambio": "manual",
-    "precio_contado": 9199,
+    "id_anuncio": "58961cee-23b6-4210-982d-f69e5881ddd6",
+    "url": "https://www.autohero.com/es/ds-automobiles-ds-7-crossback/id/58961cee-23b6-4210-982d-f69e5881ddd6/",
+    "marca": "DS Automobiles",
+    "modelo": "DS7 Crossback",
+    "version": "1.6 E-Tense Hybrid Rivoli + 4x2",
+    "año": 2021,
+    "km": 88013,
+    "combustible": "hibrido_enchufable",
+    "cambio": "automatico",
+    "precio_contado": 19899,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -861,23 +829,23 @@
     "precio_contado": 15499,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "f6f59c4c-9cf2-47b8-9b6d-a287becd0bb6",
-    "url": "https://www.autohero.com/es/kia-sportage/id/f6f59c4c-9cf2-47b8-9b6d-a287becd0bb6/",
-    "marca": "Kia",
-    "modelo": "Sportage",
-    "version": "1.6 CRDi Mild-Hybrid Drive 2WD",
-    "año": 2019,
-    "km": 118993,
-    "combustible": "hibrido",
+    "id_anuncio": "697ce591-ca87-4193-b5e5-cfc150adf8fd",
+    "url": "https://www.autohero.com/es/volkswagen-polo/id/697ce591-ca87-4193-b5e5-cfc150adf8fd/",
+    "marca": "Volkswagen",
+    "modelo": "Polo",
+    "version": "1.0 A-Polo",
+    "año": 2017,
+    "km": 75466,
+    "combustible": "gasolina",
     "cambio": "manual",
-    "precio_contado": 14799,
+    "precio_contado": 9199,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -893,23 +861,23 @@
     "precio_contado": 21299,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "528ae35e-7927-4361-8b67-468debad90ae",
-    "url": "https://www.autohero.com/es/kia-x-ceed/id/528ae35e-7927-4361-8b67-468debad90ae/",
+    "id_anuncio": "f6f59c4c-9cf2-47b8-9b6d-a287becd0bb6",
+    "url": "https://www.autohero.com/es/kia-sportage/id/f6f59c4c-9cf2-47b8-9b6d-a287becd0bb6/",
     "marca": "Kia",
-    "modelo": "XCeed",
-    "version": "1.5 TGDI Mild-Hybrid Tech",
-    "año": 2021,
-    "km": 76578,
+    "modelo": "Sportage",
+    "version": "1.6 CRDi Mild-Hybrid Drive 2WD",
+    "año": 2019,
+    "km": 118993,
     "combustible": "hibrido",
     "cambio": "manual",
-    "precio_contado": 17499,
+    "precio_contado": 14799,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -925,23 +893,23 @@
     "precio_contado": 23899,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "bb677094-589d-4f9a-80c9-ecfa833e0266",
-    "url": "https://www.autohero.com/es/mg-zs/id/bb677094-589d-4f9a-80c9-ecfa833e0266/",
-    "marca": "MG",
-    "modelo": "ZS",
-    "version": "1.5 VTi Comfort",
-    "año": 2024,
-    "km": 25585,
-    "combustible": "gasolina",
+    "id_anuncio": "528ae35e-7927-4361-8b67-468debad90ae",
+    "url": "https://www.autohero.com/es/kia-x-ceed/id/528ae35e-7927-4361-8b67-468debad90ae/",
+    "marca": "Kia",
+    "modelo": "XCeed",
+    "version": "1.5 TGDI Mild-Hybrid Tech",
+    "año": 2021,
+    "km": 76578,
+    "combustible": "hibrido",
     "cambio": "manual",
-    "precio_contado": 15499,
+    "precio_contado": 17499,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -957,23 +925,23 @@
     "precio_contado": 22299,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "11062e45-32f1-4232-a193-0dd6adf06fb4",
-    "url": "https://www.autohero.com/es/mitsubishi-outlander/id/11062e45-32f1-4232-a193-0dd6adf06fb4/",
-    "marca": "Mitsubishi",
-    "modelo": "Outlander",
-    "version": "2.0 PHEV Kaiteki 4WD",
-    "año": 2017,
-    "km": 85879,
-    "combustible": "hibrido_enchufable",
-    "cambio": "automatico",
-    "precio_contado": 16499,
+    "id_anuncio": "bb677094-589d-4f9a-80c9-ecfa833e0266",
+    "url": "https://www.autohero.com/es/mg-zs/id/bb677094-589d-4f9a-80c9-ecfa833e0266/",
+    "marca": "MG",
+    "modelo": "ZS",
+    "version": "1.5 VTi Comfort",
+    "año": 2024,
+    "km": 25585,
+    "combustible": "gasolina",
+    "cambio": "manual",
+    "precio_contado": 15499,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -989,23 +957,23 @@
     "precio_contado": 11799,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "da5fa51a-3604-412d-9c84-15cb42a162e1",
-    "url": "https://www.autohero.com/es/hyundai-tucson/id/da5fa51a-3604-412d-9c84-15cb42a162e1/",
-    "marca": "Hyundai",
-    "modelo": "Tucson",
-    "version": "1.6 T-GDI Hybrid Maxx Sky 2WD",
-    "año": 2022,
-    "km": 86852,
-    "combustible": "hibrido",
+    "id_anuncio": "11062e45-32f1-4232-a193-0dd6adf06fb4",
+    "url": "https://www.autohero.com/es/mitsubishi-outlander/id/11062e45-32f1-4232-a193-0dd6adf06fb4/",
+    "marca": "Mitsubishi",
+    "modelo": "Outlander",
+    "version": "2.0 PHEV Kaiteki 4WD",
+    "año": 2017,
+    "km": 85879,
+    "combustible": "hibrido_enchufable",
     "cambio": "automatico",
-    "precio_contado": 24899,
+    "precio_contado": 16499,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -1021,23 +989,23 @@
     "precio_contado": 31299,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "08c30bcd-e614-4983-9939-e47b4ee6fb10",
-    "url": "https://www.autohero.com/es/volkswagen-golf-vii/id/08c30bcd-e614-4983-9939-e47b4ee6fb10/",
-    "marca": "Volkswagen",
-    "modelo": "Golf VII",
-    "version": "1.6 TDI Sport BlueMotion",
-    "año": 2015,
-    "km": 105641,
-    "combustible": "diesel",
-    "cambio": "manual",
-    "precio_contado": 13899,
+    "id_anuncio": "da5fa51a-3604-412d-9c84-15cb42a162e1",
+    "url": "https://www.autohero.com/es/hyundai-tucson/id/da5fa51a-3604-412d-9c84-15cb42a162e1/",
+    "marca": "Hyundai",
+    "modelo": "Tucson",
+    "version": "1.6 T-GDI Hybrid Maxx Sky 2WD",
+    "año": 2022,
+    "km": 86852,
+    "combustible": "hibrido",
+    "cambio": "automatico",
+    "precio_contado": 24899,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -1053,23 +1021,23 @@
     "precio_contado": 27699,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "f4cb2261-b052-4484-878c-19efe62db39d",
-    "url": "https://www.autohero.com/es/toyota-aygo/id/f4cb2261-b052-4484-878c-19efe62db39d/",
-    "marca": "Toyota",
-    "modelo": "Aygo",
-    "version": "1.0 X-Play",
+    "id_anuncio": "08c30bcd-e614-4983-9939-e47b4ee6fb10",
+    "url": "https://www.autohero.com/es/volkswagen-golf-vii/id/08c30bcd-e614-4983-9939-e47b4ee6fb10/",
+    "marca": "Volkswagen",
+    "modelo": "Golf VII",
+    "version": "1.6 TDI Sport BlueMotion",
     "año": 2015,
-    "km": 127865,
-    "combustible": "gasolina",
-    "cambio": "automatico",
-    "precio_contado": 8199,
+    "km": 105641,
+    "combustible": "diesel",
+    "cambio": "manual",
+    "precio_contado": 13899,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -1085,23 +1053,23 @@
     "precio_contado": 13899,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "fc46a2bb-ec84-490f-868d-462d4a0bba97",
-    "url": "https://www.autohero.com/es/citroen-c-3-aircross/id/fc46a2bb-ec84-490f-868d-462d4a0bba97/",
-    "marca": "Citroen",
-    "modelo": "C3 Aircross",
-    "version": "1.2 PureTech Feel",
-    "año": 2020,
-    "km": 79758,
+    "id_anuncio": "f4cb2261-b052-4484-878c-19efe62db39d",
+    "url": "https://www.autohero.com/es/toyota-aygo/id/f4cb2261-b052-4484-878c-19efe62db39d/",
+    "marca": "Toyota",
+    "modelo": "Aygo",
+    "version": "1.0 X-Play",
+    "año": 2015,
+    "km": 127865,
     "combustible": "gasolina",
-    "cambio": "manual",
-    "precio_contado": 10399,
+    "cambio": "automatico",
+    "precio_contado": 8199,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -1117,23 +1085,23 @@
     "precio_contado": 29899,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "5e04ad08-761b-4bcb-99ed-113bb690dbd8",
-    "url": "https://www.autohero.com/es/volkswagen-tiguan/id/5e04ad08-761b-4bcb-99ed-113bb690dbd8/",
-    "marca": "Volkswagen",
-    "modelo": "Tiguan",
-    "version": "1.5 TSI ACT Advance BlueMotion Tech",
-    "año": 2019,
-    "km": 141449,
+    "id_anuncio": "fc46a2bb-ec84-490f-868d-462d4a0bba97",
+    "url": "https://www.autohero.com/es/citroen-c-3-aircross/id/fc46a2bb-ec84-490f-868d-462d4a0bba97/",
+    "marca": "Citroen",
+    "modelo": "C3 Aircross",
+    "version": "1.2 PureTech Feel",
+    "año": 2020,
+    "km": 79758,
     "combustible": "gasolina",
-    "cambio": "automatico",
-    "precio_contado": 20699,
+    "cambio": "manual",
+    "precio_contado": 10399,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -1149,23 +1117,23 @@
     "precio_contado": 29499,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "c97ecec7-5213-4a2a-a13d-6f36c75a0476",
-    "url": "https://www.autohero.com/es/citroen-c-3-aircross/id/c97ecec7-5213-4a2a-a13d-6f36c75a0476/",
-    "marca": "Citroen",
-    "modelo": "C3 Aircross",
-    "version": "1.6 Blue-HDi Shine",
-    "año": 2018,
-    "km": 97556,
-    "combustible": "diesel",
-    "cambio": "manual",
-    "precio_contado": 9999,
+    "id_anuncio": "5e04ad08-761b-4bcb-99ed-113bb690dbd8",
+    "url": "https://www.autohero.com/es/volkswagen-tiguan/id/5e04ad08-761b-4bcb-99ed-113bb690dbd8/",
+    "marca": "Volkswagen",
+    "modelo": "Tiguan",
+    "version": "1.5 TSI ACT Advance BlueMotion Tech",
+    "año": 2019,
+    "km": 141449,
+    "combustible": "gasolina",
+    "cambio": "automatico",
+    "precio_contado": 20699,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -1181,23 +1149,23 @@
     "precio_contado": 16299,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "3637c4af-a377-41fe-b4d6-3da121d965eb",
-    "url": "https://www.autohero.com/es/citroen-c-3/id/3637c4af-a377-41fe-b4d6-3da121d965eb/",
+    "id_anuncio": "c97ecec7-5213-4a2a-a13d-6f36c75a0476",
+    "url": "https://www.autohero.com/es/citroen-c-3-aircross/id/c97ecec7-5213-4a2a-a13d-6f36c75a0476/",
     "marca": "Citroen",
-    "modelo": "C 3",
-    "version": "1.2 PureTech C-Series",
-    "año": 2023,
-    "km": 35469,
-    "combustible": "gasolina",
+    "modelo": "C3 Aircross",
+    "version": "1.6 Blue-HDi Shine",
+    "año": 2018,
+    "km": 97556,
+    "combustible": "diesel",
     "cambio": "manual",
-    "precio_contado": 11999,
+    "precio_contado": 9999,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -1213,23 +1181,23 @@
     "precio_contado": 7399,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "8e0c022e-9895-4828-a3a6-2a11748ca8e9",
-    "url": "https://www.autohero.com/es/honda-hr-v/id/8e0c022e-9895-4828-a3a6-2a11748ca8e9/",
-    "marca": "Honda",
-    "modelo": "HR-V",
-    "version": "1.5 i-MMD Hybrid Advance Style",
-    "año": 2022,
-    "km": 37289,
-    "combustible": "hibrido",
-    "cambio": "automatico",
-    "precio_contado": 25999,
+    "id_anuncio": "3637c4af-a377-41fe-b4d6-3da121d965eb",
+    "url": "https://www.autohero.com/es/citroen-c-3/id/3637c4af-a377-41fe-b4d6-3da121d965eb/",
+    "marca": "Citroen",
+    "modelo": "C 3",
+    "version": "1.2 PureTech C-Series",
+    "año": 2023,
+    "km": 35469,
+    "combustible": "gasolina",
+    "cambio": "manual",
+    "precio_contado": 11999,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -1245,23 +1213,23 @@
     "precio_contado": 11899,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "6d35ef43-6a77-4a11-a640-dfc44a5bba59",
-    "url": "https://www.autohero.com/es/hyundai-kona/id/6d35ef43-6a77-4a11-a640-dfc44a5bba59/",
-    "marca": "Hyundai",
-    "modelo": "Kona",
-    "version": "1.0 T-GDI Klass 2WD",
-    "año": 2018,
-    "km": 76165,
-    "combustible": "gasolina",
-    "cambio": "manual",
-    "precio_contado": 12799,
+    "id_anuncio": "8e0c022e-9895-4828-a3a6-2a11748ca8e9",
+    "url": "https://www.autohero.com/es/honda-hr-v/id/8e0c022e-9895-4828-a3a6-2a11748ca8e9/",
+    "marca": "Honda",
+    "modelo": "HR-V",
+    "version": "1.5 i-MMD Hybrid Advance Style",
+    "año": 2022,
+    "km": 37289,
+    "combustible": "hibrido",
+    "cambio": "automatico",
+    "precio_contado": 25999,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -1277,23 +1245,23 @@
     "precio_contado": 14499,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "020e7b7a-231d-4ef0-9e32-c800e4f20c32",
-    "url": "https://www.autohero.com/es/mercedes-benz-clase-a/id/020e7b7a-231d-4ef0-9e32-c800e4f20c32/",
-    "marca": "Mercedes-Benz",
-    "modelo": "Clase A",
-    "version": "A 200",
+    "id_anuncio": "6d35ef43-6a77-4a11-a640-dfc44a5bba59",
+    "url": "https://www.autohero.com/es/hyundai-kona/id/6d35ef43-6a77-4a11-a640-dfc44a5bba59/",
+    "marca": "Hyundai",
+    "modelo": "Kona",
+    "version": "1.0 T-GDI Klass 2WD",
     "año": 2018,
-    "km": 82698,
+    "km": 76165,
     "combustible": "gasolina",
-    "cambio": "automatico",
-    "precio_contado": 21399,
+    "cambio": "manual",
+    "precio_contado": 12799,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -1309,23 +1277,23 @@
     "precio_contado": 11899,
     "provincia": "Valencia",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "09f0b174-0828-45e7-a7bc-004ae1829137",
-    "url": "https://www.autohero.com/es/jeep-compass/id/09f0b174-0828-45e7-a7bc-004ae1829137/",
-    "marca": "Jeep",
-    "modelo": "Compass",
-    "version": "1.3 T4 4xe Plug-in Hybrid Trailhawk",
-    "año": 2022,
-    "km": 90002,
-    "combustible": "hibrido_enchufable",
+    "id_anuncio": "020e7b7a-231d-4ef0-9e32-c800e4f20c32",
+    "url": "https://www.autohero.com/es/mercedes-benz-clase-a/id/020e7b7a-231d-4ef0-9e32-c800e4f20c32/",
+    "marca": "Mercedes-Benz",
+    "modelo": "Clase A",
+    "version": "A 200",
+    "año": 2018,
+    "km": 82698,
+    "combustible": "gasolina",
     "cambio": "automatico",
-    "precio_contado": 18699,
+    "precio_contado": 21399,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -1341,23 +1309,23 @@
     "precio_contado": 9899,
     "provincia": "Barcelona",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "f8794f87-82f4-4b91-9fa4-52775ec52f2a",
-    "url": "https://www.autohero.com/es/toyota-aygo/id/f8794f87-82f4-4b91-9fa4-52775ec52f2a/",
-    "marca": "Toyota",
-    "modelo": "Aygo",
-    "version": "1.0 VVT-i X-Play",
-    "año": 2019,
-    "km": 88049,
-    "combustible": "gasolina",
-    "cambio": "manual",
-    "precio_contado": 9599,
+    "id_anuncio": "09f0b174-0828-45e7-a7bc-004ae1829137",
+    "url": "https://www.autohero.com/es/jeep-compass/id/09f0b174-0828-45e7-a7bc-004ae1829137/",
+    "marca": "Jeep",
+    "modelo": "Compass",
+    "version": "1.3 T4 4xe Plug-in Hybrid Trailhawk",
+    "año": 2022,
+    "km": 90002,
+    "combustible": "hibrido_enchufable",
+    "cambio": "automatico",
+    "precio_contado": 18699,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -1373,23 +1341,23 @@
     "precio_contado": 22099,
     "provincia": "Alicante",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "733846b1-ecdd-43b5-bf73-7f3d0689e144",
-    "url": "https://www.autohero.com/es/volvo-xc-60/id/733846b1-ecdd-43b5-bf73-7f3d0689e144/",
-    "marca": "Volvo",
-    "modelo": "XC60",
-    "version": "2.0 T8 Twin Engine Inscription AWD",
-    "año": 2018,
-    "km": 107637,
-    "combustible": "hibrido_enchufable",
-    "cambio": "automatico",
-    "precio_contado": 24999,
+    "id_anuncio": "f8794f87-82f4-4b91-9fa4-52775ec52f2a",
+    "url": "https://www.autohero.com/es/toyota-aygo/id/f8794f87-82f4-4b91-9fa4-52775ec52f2a/",
+    "marca": "Toyota",
+    "modelo": "Aygo",
+    "version": "1.0 VVT-i X-Play",
+    "año": 2019,
+    "km": 88049,
+    "combustible": "gasolina",
+    "cambio": "manual",
+    "precio_contado": 9599,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -1405,23 +1373,23 @@
     "precio_contado": 25499,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "532be0de-7eac-45e3-8f21-6fee88cec32e",
-    "url": "https://www.autohero.com/es/citroen-c-4/id/532be0de-7eac-45e3-8f21-6fee88cec32e/",
-    "marca": "Citroen",
-    "modelo": "C4",
-    "version": "1.5 Blue-HDi Feel",
-    "año": 2022,
-    "km": 65439,
-    "combustible": "diesel",
-    "cambio": "manual",
-    "precio_contado": 13399,
+    "id_anuncio": "733846b1-ecdd-43b5-bf73-7f3d0689e144",
+    "url": "https://www.autohero.com/es/volvo-xc-60/id/733846b1-ecdd-43b5-bf73-7f3d0689e144/",
+    "marca": "Volvo",
+    "modelo": "XC60",
+    "version": "2.0 T8 Twin Engine Inscription AWD",
+    "año": 2018,
+    "km": 107637,
+    "combustible": "hibrido_enchufable",
+    "cambio": "automatico",
+    "precio_contado": 24999,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -1437,23 +1405,23 @@
     "precio_contado": 6999,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "1896d3e5-f8a4-48a0-9fe8-f55002d5760b",
-    "url": "https://www.autohero.com/es/mini-mini/id/1896d3e5-f8a4-48a0-9fe8-f55002d5760b/",
-    "marca": "MINI",
-    "modelo": "MINI",
-    "version": "Cooper",
-    "año": 2015,
-    "km": 70108,
-    "combustible": "gasolina",
+    "id_anuncio": "532be0de-7eac-45e3-8f21-6fee88cec32e",
+    "url": "https://www.autohero.com/es/citroen-c-4/id/532be0de-7eac-45e3-8f21-6fee88cec32e/",
+    "marca": "Citroen",
+    "modelo": "C4",
+    "version": "1.5 Blue-HDi Feel",
+    "año": 2022,
+    "km": 65439,
+    "combustible": "diesel",
     "cambio": "manual",
-    "precio_contado": 11899,
+    "precio_contado": 13399,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -1469,23 +1437,23 @@
     "precio_contado": 11799,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "0bdf7a61-24b7-4891-a13c-cf8b322b9255",
-    "url": "https://www.autohero.com/es/volkswagen-polo/id/0bdf7a61-24b7-4891-a13c-cf8b322b9255/",
-    "marca": "Volkswagen",
-    "modelo": "Polo",
-    "version": "1.0 A-Polo",
+    "id_anuncio": "1896d3e5-f8a4-48a0-9fe8-f55002d5760b",
+    "url": "https://www.autohero.com/es/mini-mini/id/1896d3e5-f8a4-48a0-9fe8-f55002d5760b/",
+    "marca": "MINI",
+    "modelo": "MINI",
+    "version": "Cooper",
     "año": 2015,
-    "km": 87256,
+    "km": 70108,
     "combustible": "gasolina",
     "cambio": "manual",
-    "precio_contado": 9699,
+    "precio_contado": 11899,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -1501,23 +1469,23 @@
     "precio_contado": 18899,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "13a6ef53-80e2-4c56-b690-95ad60741975",
-    "url": "https://www.autohero.com/es/ebro-s-700/id/13a6ef53-80e2-4c56-b690-95ad60741975/",
-    "marca": "Ebro",
-    "modelo": "S700",
-    "version": "1.6 TGDI Luxury",
-    "año": 2025,
-    "km": 565,
+    "id_anuncio": "0bdf7a61-24b7-4891-a13c-cf8b322b9255",
+    "url": "https://www.autohero.com/es/volkswagen-polo/id/0bdf7a61-24b7-4891-a13c-cf8b322b9255/",
+    "marca": "Volkswagen",
+    "modelo": "Polo",
+    "version": "1.0 A-Polo",
+    "año": 2015,
+    "km": 87256,
     "combustible": "gasolina",
-    "cambio": "automatico",
-    "precio_contado": 25999,
+    "cambio": "manual",
+    "precio_contado": 9699,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -1533,23 +1501,23 @@
     "precio_contado": 19699,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "e5fc9e8e-bd21-453a-9ab9-3e5cc63ace9b",
-    "url": "https://www.autohero.com/es/peugeot-2008/id/e5fc9e8e-bd21-453a-9ab9-3e5cc63ace9b/",
-    "marca": "Peugeot",
-    "modelo": "2008",
-    "version": "1.2 PureTech Allure",
-    "año": 2018,
-    "km": 45577,
+    "id_anuncio": "13a6ef53-80e2-4c56-b690-95ad60741975",
+    "url": "https://www.autohero.com/es/ebro-s-700/id/13a6ef53-80e2-4c56-b690-95ad60741975/",
+    "marca": "Ebro",
+    "modelo": "S700",
+    "version": "1.6 TGDI Luxury",
+    "año": 2025,
+    "km": 565,
     "combustible": "gasolina",
-    "cambio": "manual",
-    "precio_contado": 9699,
+    "cambio": "automatico",
+    "precio_contado": 25999,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -1565,23 +1533,23 @@
     "precio_contado": 28899,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "80e51c3c-a2df-4455-a8c6-6b91e9942ccf",
-    "url": "https://www.autohero.com/es/kia-rio/id/80e51c3c-a2df-4455-a8c6-6b91e9942ccf/",
-    "marca": "Kia",
-    "modelo": "Rio",
-    "version": "1.2 Concept",
-    "año": 2016,
-    "km": 84379,
+    "id_anuncio": "e5fc9e8e-bd21-453a-9ab9-3e5cc63ace9b",
+    "url": "https://www.autohero.com/es/peugeot-2008/id/e5fc9e8e-bd21-453a-9ab9-3e5cc63ace9b/",
+    "marca": "Peugeot",
+    "modelo": "2008",
+    "version": "1.2 PureTech Allure",
+    "año": 2018,
+    "km": 45577,
     "combustible": "gasolina",
     "cambio": "manual",
-    "precio_contado": 8699,
+    "precio_contado": 9699,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -1597,23 +1565,23 @@
     "precio_contado": 21699,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "457a36c1-a782-4f30-b9fc-7aa81d025d22",
-    "url": "https://www.autohero.com/es/peugeot-2008/id/457a36c1-a782-4f30-b9fc-7aa81d025d22/",
-    "marca": "Peugeot",
-    "modelo": "2008",
-    "version": "1.2 VTi Active",
-    "año": 2015,
-    "km": 78624,
+    "id_anuncio": "80e51c3c-a2df-4455-a8c6-6b91e9942ccf",
+    "url": "https://www.autohero.com/es/kia-rio/id/80e51c3c-a2df-4455-a8c6-6b91e9942ccf/",
+    "marca": "Kia",
+    "modelo": "Rio",
+    "version": "1.2 Concept",
+    "año": 2016,
+    "km": 84379,
     "combustible": "gasolina",
     "cambio": "manual",
-    "precio_contado": 7699,
+    "precio_contado": 8699,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -1629,23 +1597,23 @@
     "precio_contado": 14399,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "83d7b601-9873-40e8-bf68-d6cfbcaa4591",
-    "url": "https://www.autohero.com/es/lexus-nx-serie/id/83d7b601-9873-40e8-bf68-d6cfbcaa4591/",
-    "marca": "Lexus",
-    "modelo": "NX-Serie",
-    "version": "NX 300h Executive 4WD",
+    "id_anuncio": "457a36c1-a782-4f30-b9fc-7aa81d025d22",
+    "url": "https://www.autohero.com/es/peugeot-2008/id/457a36c1-a782-4f30-b9fc-7aa81d025d22/",
+    "marca": "Peugeot",
+    "modelo": "2008",
+    "version": "1.2 VTi Active",
     "año": 2015,
-    "km": 149143,
-    "combustible": "hibrido",
-    "cambio": "automatico",
-    "precio_contado": 19799,
+    "km": 78624,
+    "combustible": "gasolina",
+    "cambio": "manual",
+    "precio_contado": 7699,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -1661,23 +1629,23 @@
     "precio_contado": 17899,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "3890be04-03f4-42c0-b2e1-903e9c3fe889",
-    "url": "https://www.autohero.com/es/peugeot-5008/id/3890be04-03f4-42c0-b2e1-903e9c3fe889/",
-    "marca": "Peugeot",
-    "modelo": "5008",
-    "version": "1.2 PureTech Allure Pack",
-    "año": 2021,
-    "km": 48052,
-    "combustible": "gasolina",
-    "cambio": "manual",
-    "precio_contado": 17499,
+    "id_anuncio": "83d7b601-9873-40e8-bf68-d6cfbcaa4591",
+    "url": "https://www.autohero.com/es/lexus-nx-serie/id/83d7b601-9873-40e8-bf68-d6cfbcaa4591/",
+    "marca": "Lexus",
+    "modelo": "NX-Serie",
+    "version": "NX 300h Executive 4WD",
+    "año": 2015,
+    "km": 149143,
+    "combustible": "hibrido",
+    "cambio": "automatico",
+    "precio_contado": 19799,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -1693,23 +1661,23 @@
     "precio_contado": 30199,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "77bc3f1f-df1f-443f-830f-1c8372d9d4ae",
-    "url": "https://www.autohero.com/es/ford-mondeo/id/77bc3f1f-df1f-443f-830f-1c8372d9d4ae/",
-    "marca": "Ford",
-    "modelo": "Mondeo",
-    "version": "2.0 TDCi EcoBlue Titanium",
-    "año": 2020,
-    "km": 90594,
-    "combustible": "diesel",
-    "cambio": "automatico",
-    "precio_contado": 14999,
+    "id_anuncio": "3890be04-03f4-42c0-b2e1-903e9c3fe889",
+    "url": "https://www.autohero.com/es/peugeot-5008/id/3890be04-03f4-42c0-b2e1-903e9c3fe889/",
+    "marca": "Peugeot",
+    "modelo": "5008",
+    "version": "1.2 PureTech Allure Pack",
+    "año": 2021,
+    "km": 48052,
+    "combustible": "gasolina",
+    "cambio": "manual",
+    "precio_contado": 17499,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -1725,23 +1693,23 @@
     "precio_contado": 10499,
     "provincia": "Barcelona",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "d0537271-1b62-4be4-8eb0-d4a97a9b5128",
-    "url": "https://www.autohero.com/es/dacia-duster/id/d0537271-1b62-4be4-8eb0-d4a97a9b5128/",
-    "marca": "Dacia",
-    "modelo": "Duster",
-    "version": "1.2 TCe Mild-Hybrid Extreme",
-    "año": 2025,
-    "km": 16970,
-    "combustible": "hibrido",
-    "cambio": "manual",
-    "precio_contado": 23099,
+    "id_anuncio": "77bc3f1f-df1f-443f-830f-1c8372d9d4ae",
+    "url": "https://www.autohero.com/es/ford-mondeo/id/77bc3f1f-df1f-443f-830f-1c8372d9d4ae/",
+    "marca": "Ford",
+    "modelo": "Mondeo",
+    "version": "2.0 TDCi EcoBlue Titanium",
+    "año": 2020,
+    "km": 90594,
+    "combustible": "diesel",
+    "cambio": "automatico",
+    "precio_contado": 14999,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -1757,23 +1725,23 @@
     "precio_contado": 24699,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "b228d68d-19c9-4816-a6dd-d52af0253273",
-    "url": "https://www.autohero.com/es/honda-civic/id/b228d68d-19c9-4816-a6dd-d52af0253273/",
-    "marca": "Honda",
-    "modelo": "Civic",
-    "version": "1.6 i-DTEC Executive",
-    "año": 2019,
-    "km": 90815,
-    "combustible": "diesel",
+    "id_anuncio": "d0537271-1b62-4be4-8eb0-d4a97a9b5128",
+    "url": "https://www.autohero.com/es/dacia-duster/id/d0537271-1b62-4be4-8eb0-d4a97a9b5128/",
+    "marca": "Dacia",
+    "modelo": "Duster",
+    "version": "1.2 TCe Mild-Hybrid Extreme",
+    "año": 2025,
+    "km": 16970,
+    "combustible": "hibrido",
     "cambio": "manual",
-    "precio_contado": 16499,
+    "precio_contado": 23099,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -1789,23 +1757,23 @@
     "precio_contado": 23599,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "dd167cf8-0c10-4bcc-8818-9ab4254560cb",
-    "url": "https://www.autohero.com/es/toyota-yaris/id/dd167cf8-0c10-4bcc-8818-9ab4254560cb/",
-    "marca": "Toyota",
-    "modelo": "Yaris",
-    "version": "1.5 Hybrid Active",
-    "año": 2017,
-    "km": 98339,
-    "combustible": "hibrido",
-    "cambio": "automatico",
-    "precio_contado": 13799,
+    "id_anuncio": "b228d68d-19c9-4816-a6dd-d52af0253273",
+    "url": "https://www.autohero.com/es/honda-civic/id/b228d68d-19c9-4816-a6dd-d52af0253273/",
+    "marca": "Honda",
+    "modelo": "Civic",
+    "version": "1.6 i-DTEC Executive",
+    "año": 2019,
+    "km": 90815,
+    "combustible": "diesel",
+    "cambio": "manual",
+    "precio_contado": 16499,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -1821,23 +1789,23 @@
     "precio_contado": 7299,
     "provincia": "Asturias",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "a4845a6a-e004-4d10-9ae1-17f811c7d015",
-    "url": "https://www.autohero.com/es/citroen-c-3/id/a4845a6a-e004-4d10-9ae1-17f811c7d015/",
-    "marca": "Citroen",
-    "modelo": "C 3",
-    "version": "1.6 HDi Collection",
-    "año": 2015,
-    "km": 91248,
-    "combustible": "diesel",
-    "cambio": "manual",
-    "precio_contado": 7899,
+    "id_anuncio": "dd167cf8-0c10-4bcc-8818-9ab4254560cb",
+    "url": "https://www.autohero.com/es/toyota-yaris/id/dd167cf8-0c10-4bcc-8818-9ab4254560cb/",
+    "marca": "Toyota",
+    "modelo": "Yaris",
+    "version": "1.5 Hybrid Active",
+    "año": 2017,
+    "km": 98339,
+    "combustible": "hibrido",
+    "cambio": "automatico",
+    "precio_contado": 13799,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -1853,23 +1821,23 @@
     "precio_contado": 17399,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "85b80c7e-8c41-44b3-a39e-e22d106b6ae8",
-    "url": "https://www.autohero.com/es/dacia-sandero/id/85b80c7e-8c41-44b3-a39e-e22d106b6ae8/",
-    "marca": "Dacia",
-    "modelo": "Sandero",
-    "version": "1.2 Ambiance",
+    "id_anuncio": "a4845a6a-e004-4d10-9ae1-17f811c7d015",
+    "url": "https://www.autohero.com/es/citroen-c-3/id/a4845a6a-e004-4d10-9ae1-17f811c7d015/",
+    "marca": "Citroen",
+    "modelo": "C 3",
+    "version": "1.6 HDi Collection",
     "año": 2015,
-    "km": 37714,
-    "combustible": "gasolina",
+    "km": 91248,
+    "combustible": "diesel",
     "cambio": "manual",
-    "precio_contado": 8099,
+    "precio_contado": 7899,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -1885,23 +1853,23 @@
     "precio_contado": 10399,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "0643a47d-99a9-45fe-8a5d-7ed19968f2a5",
-    "url": "https://www.autohero.com/es/mercedes-benz-clase-a/id/0643a47d-99a9-45fe-8a5d-7ed19968f2a5/",
-    "marca": "Mercedes-Benz",
-    "modelo": "Clase A",
-    "version": "A 200 CDI Urban",
-    "año": 2017,
-    "km": 77065,
-    "combustible": "diesel",
-    "cambio": "automatico",
-    "precio_contado": 17599,
+    "id_anuncio": "85b80c7e-8c41-44b3-a39e-e22d106b6ae8",
+    "url": "https://www.autohero.com/es/dacia-sandero/id/85b80c7e-8c41-44b3-a39e-e22d106b6ae8/",
+    "marca": "Dacia",
+    "modelo": "Sandero",
+    "version": "1.2 Ambiance",
+    "año": 2015,
+    "km": 37714,
+    "combustible": "gasolina",
+    "cambio": "manual",
+    "precio_contado": 8099,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -1917,23 +1885,23 @@
     "precio_contado": 11199,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "ad730b5b-3907-4ac1-b367-39e01baf5731",
-    "url": "https://www.autohero.com/es/hyundai-kona/id/ad730b5b-3907-4ac1-b367-39e01baf5731/",
-    "marca": "Hyundai",
-    "modelo": "Kona",
-    "version": "electric drive 150 kW N Line",
-    "año": 2024,
-    "km": 72143,
-    "combustible": "electrico",
+    "id_anuncio": "0643a47d-99a9-45fe-8a5d-7ed19968f2a5",
+    "url": "https://www.autohero.com/es/mercedes-benz-clase-a/id/0643a47d-99a9-45fe-8a5d-7ed19968f2a5/",
+    "marca": "Mercedes-Benz",
+    "modelo": "Clase A",
+    "version": "A 200 CDI Urban",
+    "año": 2017,
+    "km": 77065,
+    "combustible": "diesel",
     "cambio": "automatico",
-    "precio_contado": 26299,
+    "precio_contado": 17599,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -1949,23 +1917,23 @@
     "precio_contado": 10599,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "c9d1f1ca-9ce2-4f0a-a1ca-ed3944645f70",
-    "url": "https://www.autohero.com/es/hyundai-i-30/id/c9d1f1ca-9ce2-4f0a-a1ca-ed3944645f70/",
+    "id_anuncio": "ad730b5b-3907-4ac1-b367-39e01baf5731",
+    "url": "https://www.autohero.com/es/hyundai-kona/id/ad730b5b-3907-4ac1-b367-39e01baf5731/",
     "marca": "Hyundai",
-    "modelo": "i30",
-    "version": "1.6 GDI Style",
-    "año": 2015,
-    "km": 82061,
-    "combustible": "gasolina",
-    "cambio": "manual",
-    "precio_contado": 10999,
+    "modelo": "Kona",
+    "version": "electric drive 150 kW N Line",
+    "año": 2024,
+    "km": 72143,
+    "combustible": "electrico",
+    "cambio": "automatico",
+    "precio_contado": 26299,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -1981,23 +1949,23 @@
     "precio_contado": 25599,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "be355e01-bf17-4553-b50e-a3a19a3f91b6",
-    "url": "https://www.autohero.com/es/dacia-spring/id/be355e01-bf17-4553-b50e-a3a19a3f91b6/",
-    "marca": "Dacia",
-    "modelo": "Spring",
-    "version": "electric drive 33 kW Comfort Plus",
-    "año": 2021,
-    "km": 40456,
-    "combustible": "electrico",
-    "cambio": "automatico",
-    "precio_contado": 11799,
+    "id_anuncio": "c9d1f1ca-9ce2-4f0a-a1ca-ed3944645f70",
+    "url": "https://www.autohero.com/es/hyundai-i-30/id/c9d1f1ca-9ce2-4f0a-a1ca-ed3944645f70/",
+    "marca": "Hyundai",
+    "modelo": "i30",
+    "version": "1.6 GDI Style",
+    "año": 2015,
+    "km": 82061,
+    "combustible": "gasolina",
+    "cambio": "manual",
+    "precio_contado": 10999,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -2013,23 +1981,23 @@
     "precio_contado": 17299,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "6bf6fe6e-20ab-4fdf-b5ef-f812363807ed",
-    "url": "https://www.autohero.com/es/renault-megane/id/6bf6fe6e-20ab-4fdf-b5ef-f812363807ed/",
-    "marca": "Renault",
-    "modelo": "Megane",
-    "version": "1.2 TCe Limited",
-    "año": 2018,
-    "km": 128523,
-    "combustible": "gasolina",
-    "cambio": "manual",
-    "precio_contado": 10299,
+    "id_anuncio": "be355e01-bf17-4553-b50e-a3a19a3f91b6",
+    "url": "https://www.autohero.com/es/dacia-spring/id/be355e01-bf17-4553-b50e-a3a19a3f91b6/",
+    "marca": "Dacia",
+    "modelo": "Spring",
+    "version": "electric drive 33 kW Comfort Plus",
+    "año": 2021,
+    "km": 40456,
+    "combustible": "electrico",
+    "cambio": "automatico",
+    "precio_contado": 11799,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -2045,23 +2013,23 @@
     "precio_contado": 10499,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "119a6bd2-2d99-4613-8d39-e6812e422610",
-    "url": "https://www.autohero.com/es/seat-ibiza/id/119a6bd2-2d99-4613-8d39-e6812e422610/",
-    "marca": "Seat",
-    "modelo": "Ibiza",
-    "version": "1.0 TSI Reference Plus",
-    "año": 2017,
-    "km": 107690,
+    "id_anuncio": "6bf6fe6e-20ab-4fdf-b5ef-f812363807ed",
+    "url": "https://www.autohero.com/es/renault-megane/id/6bf6fe6e-20ab-4fdf-b5ef-f812363807ed/",
+    "marca": "Renault",
+    "modelo": "Megane",
+    "version": "1.2 TCe Limited",
+    "año": 2018,
+    "km": 128523,
     "combustible": "gasolina",
     "cambio": "manual",
-    "precio_contado": 9899,
+    "precio_contado": 10299,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -2077,23 +2045,23 @@
     "precio_contado": 16299,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "1e51fea9-d6be-4411-808f-d365c9292200",
-    "url": "https://www.autohero.com/es/peugeot-208/id/1e51fea9-d6be-4411-808f-d365c9292200/",
-    "marca": "Peugeot",
-    "modelo": "208",
-    "version": "1.2 PureTech Style",
+    "id_anuncio": "119a6bd2-2d99-4613-8d39-e6812e422610",
+    "url": "https://www.autohero.com/es/seat-ibiza/id/119a6bd2-2d99-4613-8d39-e6812e422610/",
+    "marca": "Seat",
+    "modelo": "Ibiza",
+    "version": "1.0 TSI Reference Plus",
     "año": 2017,
-    "km": 112826,
+    "km": 107690,
     "combustible": "gasolina",
     "cambio": "manual",
-    "precio_contado": 7299,
+    "precio_contado": 9899,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -2109,23 +2077,23 @@
     "precio_contado": 17099,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "c6dbfa65-30a7-40af-ab00-184544c18f04",
-    "url": "https://www.autohero.com/es/nissan-x-trail/id/c6dbfa65-30a7-40af-ab00-184544c18f04/",
-    "marca": "Nissan",
-    "modelo": "X-Trail",
-    "version": "1.7 dCi Tekna 4x4",
-    "año": 2019,
-    "km": 100496,
-    "combustible": "diesel",
-    "cambio": "automatico",
-    "precio_contado": 17999,
+    "id_anuncio": "1e51fea9-d6be-4411-808f-d365c9292200",
+    "url": "https://www.autohero.com/es/peugeot-208/id/1e51fea9-d6be-4411-808f-d365c9292200/",
+    "marca": "Peugeot",
+    "modelo": "208",
+    "version": "1.2 PureTech Style",
+    "año": 2017,
+    "km": 112826,
+    "combustible": "gasolina",
+    "cambio": "manual",
+    "precio_contado": 7299,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -2141,7 +2109,39 @@
     "precio_contado": 13599,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
+  },
+  {
+    "fuente": "autohero",
+    "id_anuncio": "c6dbfa65-30a7-40af-ab00-184544c18f04",
+    "url": "https://www.autohero.com/es/nissan-x-trail/id/c6dbfa65-30a7-40af-ab00-184544c18f04/",
+    "marca": "Nissan",
+    "modelo": "X-Trail",
+    "version": "1.7 dCi Tekna 4x4",
+    "año": 2019,
+    "km": 100496,
+    "combustible": "diesel",
+    "cambio": "automatico",
+    "precio_contado": 17999,
+    "provincia": "Toledo",
+    "tipo_vendedor": "profesional",
+    "fecha_recogida": "2026-11-23"
+  },
+  {
+    "fuente": "autohero",
+    "id_anuncio": "112b640e-5bdd-4f29-a4df-ce2dbf4dd632",
+    "url": "https://www.autohero.com/es/bmw-x-3/id/112b640e-5bdd-4f29-a4df-ce2dbf4dd632/",
+    "marca": "BMW",
+    "modelo": "X3",
+    "version": "xDrive 20d Mild-Hybrid M Sport",
+    "año": 2021,
+    "km": 123443,
+    "combustible": "hibrido",
+    "cambio": "automatico",
+    "precio_contado": 27199,
+    "provincia": "Alicante",
+    "tipo_vendedor": "profesional",
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -2157,39 +2157,7 @@
     "precio_contado": 7999,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
-  },
-  {
-    "fuente": "autohero",
-    "id_anuncio": "112b640e-5bdd-4f29-a4df-ce2dbf4dd632",
-    "url": "https://www.autohero.com/es/bmw-x-3/id/112b640e-5bdd-4f29-a4df-ce2dbf4dd632/",
-    "marca": "BMW",
-    "modelo": "X3",
-    "version": "xDrive 20d Mild-Hybrid M Sport",
-    "año": 2021,
-    "km": 123443,
-    "combustible": "hibrido",
-    "cambio": "automatico",
-    "precio_contado": 27199,
-    "provincia": null,
-    "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
-  },
-  {
-    "fuente": "autohero",
-    "id_anuncio": "84f2427e-e5ab-4554-846d-48e31a4a8a76",
-    "url": "https://www.autohero.com/es/toyota-yaris/id/84f2427e-e5ab-4554-846d-48e31a4a8a76/",
-    "marca": "Toyota",
-    "modelo": "Yaris",
-    "version": "1.5 Hybrid Style Plus",
-    "año": 2023,
-    "km": 4289,
-    "combustible": "hibrido",
-    "cambio": "automatico",
-    "precio_contado": 21199,
-    "provincia": "Toledo",
-    "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -2205,23 +2173,23 @@
     "precio_contado": 28099,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "9085c964-8a1c-4109-b7c8-0b1e0e69ba62",
-    "url": "https://www.autohero.com/es/ssangyong-tivoli/id/9085c964-8a1c-4109-b7c8-0b1e0e69ba62/",
-    "marca": "Ssangyong",
-    "modelo": "Tivoli",
-    "version": "1.6 Turbodiesel Limited 4x2",
-    "año": 2018,
-    "km": 111488,
-    "combustible": "diesel",
-    "cambio": "manual",
-    "precio_contado": 9999,
+    "id_anuncio": "84f2427e-e5ab-4554-846d-48e31a4a8a76",
+    "url": "https://www.autohero.com/es/toyota-yaris/id/84f2427e-e5ab-4554-846d-48e31a4a8a76/",
+    "marca": "Toyota",
+    "modelo": "Yaris",
+    "version": "1.5 Hybrid Style Plus",
+    "año": 2023,
+    "km": 4289,
+    "combustible": "hibrido",
+    "cambio": "automatico",
+    "precio_contado": 21199,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -2237,23 +2205,23 @@
     "precio_contado": 24299,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "f1aed7db-8827-41ce-bce1-99dbf531bb9b",
-    "url": "https://www.autohero.com/es/peugeot-208/id/f1aed7db-8827-41ce-bce1-99dbf531bb9b/",
-    "marca": "Peugeot",
-    "modelo": "208",
-    "version": "electric drive 100 kW GT Pack",
-    "año": 2022,
-    "km": 38199,
-    "combustible": "electrico",
-    "cambio": "automatico",
-    "precio_contado": 17999,
+    "id_anuncio": "9085c964-8a1c-4109-b7c8-0b1e0e69ba62",
+    "url": "https://www.autohero.com/es/ssangyong-tivoli/id/9085c964-8a1c-4109-b7c8-0b1e0e69ba62/",
+    "marca": "Ssangyong",
+    "modelo": "Tivoli",
+    "version": "1.6 Turbodiesel Limited 4x2",
+    "año": 2018,
+    "km": 111488,
+    "combustible": "diesel",
+    "cambio": "manual",
+    "precio_contado": 9999,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -2269,23 +2237,23 @@
     "precio_contado": 16799,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "0a4e5abb-74c3-4764-89fd-50f4045cfa7a",
-    "url": "https://www.autohero.com/es/bmw-serie-3/id/0a4e5abb-74c3-4764-89fd-50f4045cfa7a/",
-    "marca": "BMW",
-    "modelo": "Serie 3",
-    "version": "318d",
-    "año": 2014,
-    "km": 157282,
-    "combustible": "diesel",
-    "cambio": "manual",
-    "precio_contado": 12899,
+    "id_anuncio": "f1aed7db-8827-41ce-bce1-99dbf531bb9b",
+    "url": "https://www.autohero.com/es/peugeot-208/id/f1aed7db-8827-41ce-bce1-99dbf531bb9b/",
+    "marca": "Peugeot",
+    "modelo": "208",
+    "version": "electric drive 100 kW GT Pack",
+    "año": 2022,
+    "km": 38199,
+    "combustible": "electrico",
+    "cambio": "automatico",
+    "precio_contado": 17999,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -2301,23 +2269,23 @@
     "precio_contado": 12099,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "69c8cf59-21ee-4f7e-9904-a4428d928868",
-    "url": "https://www.autohero.com/es/seat-ibiza/id/69c8cf59-21ee-4f7e-9904-a4428d928868/",
-    "marca": "Seat",
-    "modelo": "Ibiza",
-    "version": "1.0 TSI Reference",
-    "año": 2020,
-    "km": 129614,
-    "combustible": "gasolina",
+    "id_anuncio": "0a4e5abb-74c3-4764-89fd-50f4045cfa7a",
+    "url": "https://www.autohero.com/es/bmw-serie-3/id/0a4e5abb-74c3-4764-89fd-50f4045cfa7a/",
+    "marca": "BMW",
+    "modelo": "Serie 3",
+    "version": "318d",
+    "año": 2014,
+    "km": 157282,
+    "combustible": "diesel",
     "cambio": "manual",
-    "precio_contado": 10799,
+    "precio_contado": 12899,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -2333,23 +2301,23 @@
     "precio_contado": 15599,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "8f0491e9-6013-4c84-b3ad-950e70ca4f6e",
-    "url": "https://www.autohero.com/es/ford-tourneo-courier/id/8f0491e9-6013-4c84-b3ad-950e70ca4f6e/",
-    "marca": "Ford",
-    "modelo": "Tourneo Courier",
-    "version": "1.0 EcoBoost Titanium",
-    "año": 2024,
-    "km": 21929,
+    "id_anuncio": "69c8cf59-21ee-4f7e-9904-a4428d928868",
+    "url": "https://www.autohero.com/es/seat-ibiza/id/69c8cf59-21ee-4f7e-9904-a4428d928868/",
+    "marca": "Seat",
+    "modelo": "Ibiza",
+    "version": "1.0 TSI Reference",
+    "año": 2020,
+    "km": 129614,
     "combustible": "gasolina",
     "cambio": "manual",
-    "precio_contado": 20699,
+    "precio_contado": 10799,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -2365,23 +2333,23 @@
     "precio_contado": 25999,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "8ea76aed-c9ba-42b6-8633-e4eefc934e01",
-    "url": "https://www.autohero.com/es/mazda-3/id/8ea76aed-c9ba-42b6-8633-e4eefc934e01/",
-    "marca": "Mazda",
-    "modelo": "3",
-    "version": "2.0 Luxury",
-    "año": 2016,
-    "km": 152941,
+    "id_anuncio": "8f0491e9-6013-4c84-b3ad-950e70ca4f6e",
+    "url": "https://www.autohero.com/es/ford-tourneo-courier/id/8f0491e9-6013-4c84-b3ad-950e70ca4f6e/",
+    "marca": "Ford",
+    "modelo": "Tourneo Courier",
+    "version": "1.0 EcoBoost Titanium",
+    "año": 2024,
+    "km": 21929,
     "combustible": "gasolina",
     "cambio": "manual",
-    "precio_contado": 12399,
+    "precio_contado": 20699,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -2397,23 +2365,23 @@
     "precio_contado": 41199,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "59ffcb81-1303-4136-bb46-9972c0647776",
-    "url": "https://www.autohero.com/es/kia-stonic/id/59ffcb81-1303-4136-bb46-9972c0647776/",
-    "marca": "Kia",
-    "modelo": "Stonic",
-    "version": "1.4 Drive",
-    "año": 2020,
-    "km": 82670,
+    "id_anuncio": "8ea76aed-c9ba-42b6-8633-e4eefc934e01",
+    "url": "https://www.autohero.com/es/mazda-3/id/8ea76aed-c9ba-42b6-8633-e4eefc934e01/",
+    "marca": "Mazda",
+    "modelo": "3",
+    "version": "2.0 Luxury",
+    "año": 2016,
+    "km": 152941,
     "combustible": "gasolina",
     "cambio": "manual",
-    "precio_contado": 13199,
+    "precio_contado": 12399,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -2429,23 +2397,23 @@
     "precio_contado": 35599,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "1e27fe93-31cb-4ad4-b0dc-b2b193ad2cc4",
-    "url": "https://www.autohero.com/es/opel-corsa/id/1e27fe93-31cb-4ad4-b0dc-b2b193ad2cc4/",
-    "marca": "Opel",
-    "modelo": "Corsa",
-    "version": "1.2 Turbo Elegance",
-    "año": 2022,
-    "km": 50275,
+    "id_anuncio": "59ffcb81-1303-4136-bb46-9972c0647776",
+    "url": "https://www.autohero.com/es/kia-stonic/id/59ffcb81-1303-4136-bb46-9972c0647776/",
+    "marca": "Kia",
+    "modelo": "Stonic",
+    "version": "1.4 Drive",
+    "año": 2020,
+    "km": 82670,
     "combustible": "gasolina",
     "cambio": "manual",
-    "precio_contado": 12199,
+    "precio_contado": 13199,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -2461,23 +2429,23 @@
     "precio_contado": 15499,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "7cdb6cd2-d2f7-4c63-b3a8-d82bd88b67b9",
-    "url": "https://www.autohero.com/es/seat-leon/id/7cdb6cd2-d2f7-4c63-b3a8-d82bd88b67b9/",
-    "marca": "Seat",
-    "modelo": "León",
-    "version": "1.5 eTSI FR",
-    "año": 2020,
-    "km": 45852,
-    "combustible": "hibrido",
-    "cambio": "automatico",
-    "precio_contado": 20199,
+    "id_anuncio": "1e27fe93-31cb-4ad4-b0dc-b2b193ad2cc4",
+    "url": "https://www.autohero.com/es/opel-corsa/id/1e27fe93-31cb-4ad4-b0dc-b2b193ad2cc4/",
+    "marca": "Opel",
+    "modelo": "Corsa",
+    "version": "1.2 Turbo Elegance",
+    "año": 2022,
+    "km": 50275,
+    "combustible": "gasolina",
+    "cambio": "manual",
+    "precio_contado": 12199,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -2493,23 +2461,23 @@
     "precio_contado": 13699,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "082bb473-d554-4c51-89f6-adc8d8a33042",
-    "url": "https://www.autohero.com/es/tesla-model-3/id/082bb473-d554-4c51-89f6-adc8d8a33042/",
-    "marca": "Tesla",
-    "modelo": "Model 3",
-    "version": "Standard Range",
-    "año": 2023,
-    "km": 33820,
-    "combustible": "electrico",
+    "id_anuncio": "7cdb6cd2-d2f7-4c63-b3a8-d82bd88b67b9",
+    "url": "https://www.autohero.com/es/seat-leon/id/7cdb6cd2-d2f7-4c63-b3a8-d82bd88b67b9/",
+    "marca": "Seat",
+    "modelo": "León",
+    "version": "1.5 eTSI FR",
+    "año": 2020,
+    "km": 45852,
+    "combustible": "hibrido",
     "cambio": "automatico",
-    "precio_contado": 29999,
+    "precio_contado": 20199,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -2525,23 +2493,23 @@
     "precio_contado": 8399,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "d4ad7c59-2d44-438c-8ed6-d2f84898b0df",
-    "url": "https://www.autohero.com/es/seat-leon/id/d4ad7c59-2d44-438c-8ed6-d2f84898b0df/",
-    "marca": "Seat",
-    "modelo": "León",
-    "version": "1.0 TSI Style Visio Edition",
-    "año": 2019,
-    "km": 141868,
-    "combustible": "gasolina",
-    "cambio": "manual",
-    "precio_contado": 11199,
+    "id_anuncio": "082bb473-d554-4c51-89f6-adc8d8a33042",
+    "url": "https://www.autohero.com/es/tesla-model-3/id/082bb473-d554-4c51-89f6-adc8d8a33042/",
+    "marca": "Tesla",
+    "modelo": "Model 3",
+    "version": "Standard Range",
+    "año": 2023,
+    "km": 33820,
+    "combustible": "electrico",
+    "cambio": "automatico",
+    "precio_contado": 29999,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -2557,23 +2525,23 @@
     "precio_contado": 15399,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "2dff2b94-89d5-4ce5-adde-a47df195c55d",
-    "url": "https://www.autohero.com/es/peugeot-2008/id/2dff2b94-89d5-4ce5-adde-a47df195c55d/",
-    "marca": "Peugeot",
-    "modelo": "2008",
-    "version": "1.2 PureTech GT Line",
+    "id_anuncio": "d4ad7c59-2d44-438c-8ed6-d2f84898b0df",
+    "url": "https://www.autohero.com/es/seat-leon/id/d4ad7c59-2d44-438c-8ed6-d2f84898b0df/",
+    "marca": "Seat",
+    "modelo": "León",
+    "version": "1.0 TSI Style Visio Edition",
     "año": 2019,
-    "km": 43745,
+    "km": 141868,
     "combustible": "gasolina",
-    "cambio": "automatico",
-    "precio_contado": 11299,
+    "cambio": "manual",
+    "precio_contado": 11199,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -2589,23 +2557,23 @@
     "precio_contado": 16499,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "174dacfb-d332-4934-88b8-fbd0b885ef46",
-    "url": "https://www.autohero.com/es/citroen-c-3/id/174dacfb-d332-4934-88b8-fbd0b885ef46/",
-    "marca": "Citroen",
-    "modelo": "C 3",
-    "version": "1.2 PureTech Feel",
+    "id_anuncio": "2dff2b94-89d5-4ce5-adde-a47df195c55d",
+    "url": "https://www.autohero.com/es/peugeot-2008/id/2dff2b94-89d5-4ce5-adde-a47df195c55d/",
+    "marca": "Peugeot",
+    "modelo": "2008",
+    "version": "1.2 PureTech GT Line",
     "año": 2019,
-    "km": 90001,
+    "km": 43745,
     "combustible": "gasolina",
-    "cambio": "manual",
-    "precio_contado": 8499,
+    "cambio": "automatico",
+    "precio_contado": 11299,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -2621,23 +2589,23 @@
     "precio_contado": 26999,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "7693a8e0-e876-4e5a-a335-99f6354d76b0",
-    "url": "https://www.autohero.com/es/mitsubishi-eclipse-cross/id/7693a8e0-e876-4e5a-a335-99f6354d76b0/",
-    "marca": "Mitsubishi",
-    "modelo": "Eclipse Cross",
-    "version": "1.5 T-MIVEC Motion 2WD",
-    "año": 2018,
-    "km": 95202,
+    "id_anuncio": "174dacfb-d332-4934-88b8-fbd0b885ef46",
+    "url": "https://www.autohero.com/es/citroen-c-3/id/174dacfb-d332-4934-88b8-fbd0b885ef46/",
+    "marca": "Citroen",
+    "modelo": "C 3",
+    "version": "1.2 PureTech Feel",
+    "año": 2019,
+    "km": 90001,
     "combustible": "gasolina",
     "cambio": "manual",
-    "precio_contado": 15399,
+    "precio_contado": 8499,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -2653,23 +2621,23 @@
     "precio_contado": 15399,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "883567f4-636c-463f-8ff4-eae4fac58030",
-    "url": "https://www.autohero.com/es/fiat-tipo/id/883567f4-636c-463f-8ff4-eae4fac58030/",
-    "marca": "Fiat",
-    "modelo": "Tipo",
-    "version": "1.6 JTDM Lounge Plus",
-    "año": 2017,
-    "km": 90803,
-    "combustible": "diesel",
+    "id_anuncio": "7693a8e0-e876-4e5a-a335-99f6354d76b0",
+    "url": "https://www.autohero.com/es/mitsubishi-eclipse-cross/id/7693a8e0-e876-4e5a-a335-99f6354d76b0/",
+    "marca": "Mitsubishi",
+    "modelo": "Eclipse Cross",
+    "version": "1.5 T-MIVEC Motion 2WD",
+    "año": 2018,
+    "km": 95202,
+    "combustible": "gasolina",
     "cambio": "manual",
-    "precio_contado": 8899,
+    "precio_contado": 15399,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -2685,23 +2653,23 @@
     "precio_contado": 19299,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "4bd5917b-dd74-49a4-af17-3c9d197f2b99",
-    "url": "https://www.autohero.com/es/seat-arona/id/4bd5917b-dd74-49a4-af17-3c9d197f2b99/",
-    "marca": "Seat",
-    "modelo": "Arona",
-    "version": "1.0 TSI FR XM",
-    "año": 2023,
-    "km": 24263,
-    "combustible": "gasolina",
-    "cambio": "automatico",
-    "precio_contado": 17999,
+    "id_anuncio": "883567f4-636c-463f-8ff4-eae4fac58030",
+    "url": "https://www.autohero.com/es/fiat-tipo/id/883567f4-636c-463f-8ff4-eae4fac58030/",
+    "marca": "Fiat",
+    "modelo": "Tipo",
+    "version": "1.6 JTDM Lounge Plus",
+    "año": 2017,
+    "km": 90803,
+    "combustible": "diesel",
+    "cambio": "manual",
+    "precio_contado": 8899,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -2717,23 +2685,23 @@
     "precio_contado": 26799,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "9c23d5ba-845e-4806-b53f-3e734855225a",
-    "url": "https://www.autohero.com/es/mercedes-benz-clase-gla/id/9c23d5ba-845e-4806-b53f-3e734855225a/",
-    "marca": "Mercedes-Benz",
-    "modelo": "Clase GLA",
-    "version": "GLA 180 Edition",
-    "año": 2019,
-    "km": 76987,
+    "id_anuncio": "4bd5917b-dd74-49a4-af17-3c9d197f2b99",
+    "url": "https://www.autohero.com/es/seat-arona/id/4bd5917b-dd74-49a4-af17-3c9d197f2b99/",
+    "marca": "Seat",
+    "modelo": "Arona",
+    "version": "1.0 TSI FR XM",
+    "año": 2023,
+    "km": 24263,
     "combustible": "gasolina",
     "cambio": "automatico",
-    "precio_contado": 20299,
+    "precio_contado": 17999,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -2749,23 +2717,23 @@
     "precio_contado": 23299,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "497ba232-5702-49f9-97b3-47467530b181",
-    "url": "https://www.autohero.com/es/toyota-yaris-cross/id/497ba232-5702-49f9-97b3-47467530b181/",
-    "marca": "Toyota",
-    "modelo": "Yaris Cross",
-    "version": "1.5 Hybrid Active Tech",
-    "año": 2023,
-    "km": 49869,
-    "combustible": "hibrido",
+    "id_anuncio": "9c23d5ba-845e-4806-b53f-3e734855225a",
+    "url": "https://www.autohero.com/es/mercedes-benz-clase-gla/id/9c23d5ba-845e-4806-b53f-3e734855225a/",
+    "marca": "Mercedes-Benz",
+    "modelo": "Clase GLA",
+    "version": "GLA 180 Edition",
+    "año": 2019,
+    "km": 76987,
+    "combustible": "gasolina",
     "cambio": "automatico",
-    "precio_contado": 22999,
+    "precio_contado": 20299,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -2781,23 +2749,23 @@
     "precio_contado": 13499,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "834e36d6-ffd7-48e2-8bf1-a0e0fba978dd",
-    "url": "https://www.autohero.com/es/opel-mokka-x/id/834e36d6-ffd7-48e2-8bf1-a0e0fba978dd/",
-    "marca": "Opel",
-    "modelo": "Mokka X",
-    "version": "1.4 Turbo Selective Start/Stop",
-    "año": 2017,
-    "km": 93882,
-    "combustible": "gasolina",
-    "cambio": "manual",
-    "precio_contado": 10499,
+    "id_anuncio": "497ba232-5702-49f9-97b3-47467530b181",
+    "url": "https://www.autohero.com/es/toyota-yaris-cross/id/497ba232-5702-49f9-97b3-47467530b181/",
+    "marca": "Toyota",
+    "modelo": "Yaris Cross",
+    "version": "1.5 Hybrid Active Tech",
+    "año": 2023,
+    "km": 49869,
+    "combustible": "hibrido",
+    "cambio": "automatico",
+    "precio_contado": 22999,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -2813,23 +2781,23 @@
     "precio_contado": 16699,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "5b670820-a531-41d1-b3e4-83efa3a17dc9",
-    "url": "https://www.autohero.com/es/fiat-500-x/id/5b670820-a531-41d1-b3e4-83efa3a17dc9/",
-    "marca": "Fiat",
-    "modelo": "500X",
-    "version": "1.4 Cross Plus",
-    "año": 2016,
-    "km": 120079,
+    "id_anuncio": "834e36d6-ffd7-48e2-8bf1-a0e0fba978dd",
+    "url": "https://www.autohero.com/es/opel-mokka-x/id/834e36d6-ffd7-48e2-8bf1-a0e0fba978dd/",
+    "marca": "Opel",
+    "modelo": "Mokka X",
+    "version": "1.4 Turbo Selective Start/Stop",
+    "año": 2017,
+    "km": 93882,
     "combustible": "gasolina",
-    "cambio": "automatico",
-    "precio_contado": 11499,
+    "cambio": "manual",
+    "precio_contado": 10499,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -2845,23 +2813,23 @@
     "precio_contado": 10799,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "3e1ab172-5d38-4ffb-ba1a-cde86739cb32",
-    "url": "https://www.autohero.com/es/nissan-x-trail/id/3e1ab172-5d38-4ffb-ba1a-cde86739cb32/",
-    "marca": "Nissan",
-    "modelo": "X-Trail",
-    "version": "1.5 VC-T e-POWER Tekna",
-    "año": 2025,
-    "km": 28288,
-    "combustible": "hibrido",
+    "id_anuncio": "5b670820-a531-41d1-b3e4-83efa3a17dc9",
+    "url": "https://www.autohero.com/es/fiat-500-x/id/5b670820-a531-41d1-b3e4-83efa3a17dc9/",
+    "marca": "Fiat",
+    "modelo": "500X",
+    "version": "1.4 Cross Plus",
+    "año": 2016,
+    "km": 120079,
+    "combustible": "gasolina",
     "cambio": "automatico",
-    "precio_contado": 33699,
+    "precio_contado": 11499,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -2877,23 +2845,23 @@
     "precio_contado": 18799,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "bc99bfb0-3606-4cca-820a-49bc112ba091",
-    "url": "https://www.autohero.com/es/dacia-dokker/id/bc99bfb0-3606-4cca-820a-49bc112ba091/",
-    "marca": "Dacia",
-    "modelo": "Dokker",
-    "version": "1.5 Blue dCi Stepway Essential",
-    "año": 2019,
-    "km": 77371,
-    "combustible": "diesel",
-    "cambio": "manual",
-    "precio_contado": 14699,
+    "id_anuncio": "3e1ab172-5d38-4ffb-ba1a-cde86739cb32",
+    "url": "https://www.autohero.com/es/nissan-x-trail/id/3e1ab172-5d38-4ffb-ba1a-cde86739cb32/",
+    "marca": "Nissan",
+    "modelo": "X-Trail",
+    "version": "1.5 VC-T e-POWER Tekna",
+    "año": 2025,
+    "km": 28288,
+    "combustible": "hibrido",
+    "cambio": "automatico",
+    "precio_contado": 33699,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -2909,23 +2877,23 @@
     "precio_contado": 25499,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "fa72f1ad-129e-4aa5-b92a-f294c05be92e",
-    "url": "https://www.autohero.com/es/cupra-formentor/id/fa72f1ad-129e-4aa5-b92a-f294c05be92e/",
-    "marca": "Cupra",
-    "modelo": "Formentor",
-    "version": "2.0 TSI VZ 4Drive",
-    "año": 2023,
-    "km": 52165,
-    "combustible": "gasolina",
-    "cambio": "automatico",
-    "precio_contado": 30899,
+    "id_anuncio": "bc99bfb0-3606-4cca-820a-49bc112ba091",
+    "url": "https://www.autohero.com/es/dacia-dokker/id/bc99bfb0-3606-4cca-820a-49bc112ba091/",
+    "marca": "Dacia",
+    "modelo": "Dokker",
+    "version": "1.5 Blue dCi Stepway Essential",
+    "año": 2019,
+    "km": 77371,
+    "combustible": "diesel",
+    "cambio": "manual",
+    "precio_contado": 14699,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -2941,23 +2909,23 @@
     "precio_contado": 16299,
     "provincia": "Jaén",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "5ff0412c-23f3-4534-b163-cfd02e19863c",
-    "url": "https://www.autohero.com/es/land-rover-discovery-sport/id/5ff0412c-23f3-4534-b163-cfd02e19863c/",
-    "marca": "Land Rover",
-    "modelo": "Discovery Sport",
-    "version": "P300e Hybrid S R-Dynamic AWD",
-    "año": 2021,
-    "km": 93252,
-    "combustible": "hibrido_enchufable",
+    "id_anuncio": "fa72f1ad-129e-4aa5-b92a-f294c05be92e",
+    "url": "https://www.autohero.com/es/cupra-formentor/id/fa72f1ad-129e-4aa5-b92a-f294c05be92e/",
+    "marca": "Cupra",
+    "modelo": "Formentor",
+    "version": "2.0 TSI VZ 4Drive",
+    "año": 2023,
+    "km": 52165,
+    "combustible": "gasolina",
     "cambio": "automatico",
-    "precio_contado": 23999,
+    "precio_contado": 30899,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -2973,23 +2941,23 @@
     "precio_contado": 9099,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "f5aa8c1c-8d2c-4d07-ab45-984250a024ef",
-    "url": "https://www.autohero.com/es/toyota-rav-4/id/f5aa8c1c-8d2c-4d07-ab45-984250a024ef/",
-    "marca": "Toyota",
-    "modelo": "RAV 4",
-    "version": "2.5 Hybrid 4x4 Luxury",
+    "id_anuncio": "5ff0412c-23f3-4534-b163-cfd02e19863c",
+    "url": "https://www.autohero.com/es/land-rover-discovery-sport/id/5ff0412c-23f3-4534-b163-cfd02e19863c/",
+    "marca": "Land Rover",
+    "modelo": "Discovery Sport",
+    "version": "P300e Hybrid S R-Dynamic AWD",
     "año": 2021,
-    "km": 105298,
-    "combustible": "hibrido",
+    "km": 93252,
+    "combustible": "hibrido_enchufable",
     "cambio": "automatico",
-    "precio_contado": 32999,
+    "precio_contado": 23999,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -3005,23 +2973,23 @@
     "precio_contado": 25999,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "88837660-13b0-4d1c-8a4b-d558ccc9cf9e",
-    "url": "https://www.autohero.com/es/seat-leon/id/88837660-13b0-4d1c-8a4b-d558ccc9cf9e/",
-    "marca": "Seat",
-    "modelo": "León",
-    "version": "1.5 TSI ACT FR Special Edition",
-    "año": 2025,
-    "km": 14741,
-    "combustible": "gasolina",
-    "cambio": "manual",
-    "precio_contado": 23299,
+    "id_anuncio": "f5aa8c1c-8d2c-4d07-ab45-984250a024ef",
+    "url": "https://www.autohero.com/es/toyota-rav-4/id/f5aa8c1c-8d2c-4d07-ab45-984250a024ef/",
+    "marca": "Toyota",
+    "modelo": "RAV 4",
+    "version": "2.5 Hybrid 4x4 Luxury",
+    "año": 2021,
+    "km": 105298,
+    "combustible": "hibrido",
+    "cambio": "automatico",
+    "precio_contado": 32999,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -3037,23 +3005,23 @@
     "precio_contado": 31799,
     "provincia": "Barcelona",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "051666c4-65a9-4211-aab1-ca7593c7331e",
-    "url": "https://www.autohero.com/es/peugeot-308/id/051666c4-65a9-4211-aab1-ca7593c7331e/",
-    "marca": "Peugeot",
-    "modelo": "308",
-    "version": "1.2 PureTech Allure",
-    "año": 2018,
-    "km": 88915,
+    "id_anuncio": "88837660-13b0-4d1c-8a4b-d558ccc9cf9e",
+    "url": "https://www.autohero.com/es/seat-leon/id/88837660-13b0-4d1c-8a4b-d558ccc9cf9e/",
+    "marca": "Seat",
+    "modelo": "León",
+    "version": "1.5 TSI ACT FR Special Edition",
+    "año": 2025,
+    "km": 14741,
     "combustible": "gasolina",
-    "cambio": "automatico",
-    "precio_contado": 10399,
+    "cambio": "manual",
+    "precio_contado": 23299,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -3069,23 +3037,23 @@
     "precio_contado": 18999,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "b182b524-dbdc-4ff9-8987-edfa6f666e7f",
-    "url": "https://www.autohero.com/es/opel-corsa/id/b182b524-dbdc-4ff9-8987-edfa6f666e7f/",
-    "marca": "Opel",
-    "modelo": "Corsa",
-    "version": "1.2 Turbo GS Line",
-    "año": 2020,
-    "km": 63869,
+    "id_anuncio": "051666c4-65a9-4211-aab1-ca7593c7331e",
+    "url": "https://www.autohero.com/es/peugeot-308/id/051666c4-65a9-4211-aab1-ca7593c7331e/",
+    "marca": "Peugeot",
+    "modelo": "308",
+    "version": "1.2 PureTech Allure",
+    "año": 2018,
+    "km": 88915,
     "combustible": "gasolina",
-    "cambio": "manual",
-    "precio_contado": 11399,
+    "cambio": "automatico",
+    "precio_contado": 10399,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -3101,23 +3069,23 @@
     "precio_contado": 15299,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "4e9bdf80-0fc4-40c0-822b-83ad24c0ab87",
-    "url": "https://www.autohero.com/es/toyota-rav-4/id/4e9bdf80-0fc4-40c0-822b-83ad24c0ab87/",
-    "marca": "Toyota",
-    "modelo": "RAV 4",
-    "version": "2.5 Hybrid Advance",
-    "año": 2023,
-    "km": 53217,
-    "combustible": "hibrido",
-    "cambio": "automatico",
-    "precio_contado": 35299,
+    "id_anuncio": "b182b524-dbdc-4ff9-8987-edfa6f666e7f",
+    "url": "https://www.autohero.com/es/opel-corsa/id/b182b524-dbdc-4ff9-8987-edfa6f666e7f/",
+    "marca": "Opel",
+    "modelo": "Corsa",
+    "version": "1.2 Turbo GS Line",
+    "año": 2020,
+    "km": 63869,
+    "combustible": "gasolina",
+    "cambio": "manual",
+    "precio_contado": 11399,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -3133,23 +3101,23 @@
     "precio_contado": 15899,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "dc01ab57-04d4-431e-9e4f-79308ead9133",
-    "url": "https://www.autohero.com/es/ford-tourneo-courier/id/dc01ab57-04d4-431e-9e4f-79308ead9133/",
-    "marca": "Ford",
-    "modelo": "Tourneo Courier",
-    "version": "1.0 EcoBoost Titanium",
-    "año": 2015,
-    "km": 84441,
-    "combustible": "gasolina",
-    "cambio": "manual",
-    "precio_contado": 9699,
+    "id_anuncio": "4e9bdf80-0fc4-40c0-822b-83ad24c0ab87",
+    "url": "https://www.autohero.com/es/toyota-rav-4/id/4e9bdf80-0fc4-40c0-822b-83ad24c0ab87/",
+    "marca": "Toyota",
+    "modelo": "RAV 4",
+    "version": "2.5 Hybrid Advance",
+    "año": 2023,
+    "km": 53217,
+    "combustible": "hibrido",
+    "cambio": "automatico",
+    "precio_contado": 35299,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -3165,23 +3133,23 @@
     "precio_contado": 16599,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "cdf0c8fa-2089-451a-872b-6269c7e37982",
-    "url": "https://www.autohero.com/es/skoda-yeti/id/cdf0c8fa-2089-451a-872b-6269c7e37982/",
-    "marca": "Skoda",
-    "modelo": "Yeti",
-    "version": "2.0 TDI Black Outdoor",
-    "año": 2017,
-    "km": 109826,
-    "combustible": "diesel",
+    "id_anuncio": "dc01ab57-04d4-431e-9e4f-79308ead9133",
+    "url": "https://www.autohero.com/es/ford-tourneo-courier/id/dc01ab57-04d4-431e-9e4f-79308ead9133/",
+    "marca": "Ford",
+    "modelo": "Tourneo Courier",
+    "version": "1.0 EcoBoost Titanium",
+    "año": 2015,
+    "km": 84441,
+    "combustible": "gasolina",
     "cambio": "manual",
-    "precio_contado": 12699,
+    "precio_contado": 9699,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -3197,23 +3165,23 @@
     "precio_contado": 27299,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "67d74705-6c37-4213-ada9-3e59ed09a6d2",
-    "url": "https://www.autohero.com/es/opel-corsa/id/67d74705-6c37-4213-ada9-3e59ed09a6d2/",
-    "marca": "Opel",
-    "modelo": "Corsa",
-    "version": "1.2 Turbo GS Line",
-    "año": 2020,
-    "km": 109644,
-    "combustible": "gasolina",
-    "cambio": "automatico",
-    "precio_contado": 11799,
+    "id_anuncio": "cdf0c8fa-2089-451a-872b-6269c7e37982",
+    "url": "https://www.autohero.com/es/skoda-yeti/id/cdf0c8fa-2089-451a-872b-6269c7e37982/",
+    "marca": "Skoda",
+    "modelo": "Yeti",
+    "version": "2.0 TDI Black Outdoor",
+    "año": 2017,
+    "km": 109826,
+    "combustible": "diesel",
+    "cambio": "manual",
+    "precio_contado": 12699,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -3229,23 +3197,23 @@
     "precio_contado": 7599,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "eae7f0e2-a23b-4313-8346-8dc6e6c78054",
-    "url": "https://www.autohero.com/es/mazda-cx-3/id/eae7f0e2-a23b-4313-8346-8dc6e6c78054/",
-    "marca": "Mazda",
-    "modelo": "CX-3",
-    "version": "2.0 Luxury",
-    "año": 2017,
-    "km": 116673,
+    "id_anuncio": "67d74705-6c37-4213-ada9-3e59ed09a6d2",
+    "url": "https://www.autohero.com/es/opel-corsa/id/67d74705-6c37-4213-ada9-3e59ed09a6d2/",
+    "marca": "Opel",
+    "modelo": "Corsa",
+    "version": "1.2 Turbo GS Line",
+    "año": 2020,
+    "km": 109644,
     "combustible": "gasolina",
-    "cambio": "manual",
-    "precio_contado": 14199,
+    "cambio": "automatico",
+    "precio_contado": 11799,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -3261,23 +3229,23 @@
     "precio_contado": 21599,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "542ebe94-0250-41b1-bd8a-a78b3fbcfd1b",
-    "url": "https://www.autohero.com/es/kia-stonic/id/542ebe94-0250-41b1-bd8a-a78b3fbcfd1b/",
-    "marca": "Kia",
-    "modelo": "Stonic",
-    "version": "1.0 TGDI Drive",
+    "id_anuncio": "eae7f0e2-a23b-4313-8346-8dc6e6c78054",
+    "url": "https://www.autohero.com/es/mazda-cx-3/id/eae7f0e2-a23b-4313-8346-8dc6e6c78054/",
+    "marca": "Mazda",
+    "modelo": "CX-3",
+    "version": "2.0 Luxury",
     "año": 2017,
-    "km": 28986,
+    "km": 116673,
     "combustible": "gasolina",
     "cambio": "manual",
-    "precio_contado": 12999,
+    "precio_contado": 14199,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -3293,23 +3261,23 @@
     "precio_contado": 9299,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "e74e2280-5d6c-46b7-82a2-07a471fb32bf",
-    "url": "https://www.autohero.com/es/audi-q-5/id/e74e2280-5d6c-46b7-82a2-07a471fb32bf/",
-    "marca": "Audi",
-    "modelo": "Q5",
-    "version": "2.0 TDI quattro Advanced edition",
-    "año": 2015,
-    "km": 141481,
-    "combustible": "diesel",
-    "cambio": "automatico",
-    "precio_contado": 17199,
+    "id_anuncio": "542ebe94-0250-41b1-bd8a-a78b3fbcfd1b",
+    "url": "https://www.autohero.com/es/kia-stonic/id/542ebe94-0250-41b1-bd8a-a78b3fbcfd1b/",
+    "marca": "Kia",
+    "modelo": "Stonic",
+    "version": "1.0 TGDI Drive",
+    "año": 2017,
+    "km": 28986,
+    "combustible": "gasolina",
+    "cambio": "manual",
+    "precio_contado": 12999,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -3325,23 +3293,23 @@
     "precio_contado": 7599,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "ab9fad20-4d6e-4a6a-a181-d287afb5e72f",
-    "url": "https://www.autohero.com/es/volkswagen-t-6-multivan/id/ab9fad20-4d6e-4a6a-a181-d287afb5e72f/",
-    "marca": "Volkswagen",
-    "modelo": "T6 Multivan",
-    "version": "2.0 TDI Trendline",
-    "año": 2017,
-    "km": 124815,
+    "id_anuncio": "e74e2280-5d6c-46b7-82a2-07a471fb32bf",
+    "url": "https://www.autohero.com/es/audi-q-5/id/e74e2280-5d6c-46b7-82a2-07a471fb32bf/",
+    "marca": "Audi",
+    "modelo": "Q5",
+    "version": "2.0 TDI quattro Advanced edition",
+    "año": 2015,
+    "km": 141481,
     "combustible": "diesel",
     "cambio": "automatico",
-    "precio_contado": 27899,
+    "precio_contado": 17199,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -3357,23 +3325,23 @@
     "precio_contado": 25699,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "efb974a0-ae83-408e-9f86-cb5c56b1f847",
-    "url": "https://www.autohero.com/es/fiat-500-e/id/efb974a0-ae83-408e-9f86-cb5c56b1f847/",
-    "marca": "Fiat",
-    "modelo": "500e",
-    "version": "electric drive 87 kW",
-    "año": 2023,
-    "km": 33212,
-    "combustible": "electrico",
+    "id_anuncio": "ab9fad20-4d6e-4a6a-a181-d287afb5e72f",
+    "url": "https://www.autohero.com/es/volkswagen-t-6-multivan/id/ab9fad20-4d6e-4a6a-a181-d287afb5e72f/",
+    "marca": "Volkswagen",
+    "modelo": "T6 Multivan",
+    "version": "2.0 TDI Trendline",
+    "año": 2017,
+    "km": 124815,
+    "combustible": "diesel",
     "cambio": "automatico",
-    "precio_contado": 16999,
+    "precio_contado": 27899,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -3389,23 +3357,23 @@
     "precio_contado": 29999,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "233335f6-6e86-456a-a0a2-9b2ae3058867",
-    "url": "https://www.autohero.com/es/citroen-c-3/id/233335f6-6e86-456a-a0a2-9b2ae3058867/",
-    "marca": "Citroen",
-    "modelo": "C 3",
-    "version": "1.2 PureTech Shine",
-    "año": 2017,
-    "km": 76864,
-    "combustible": "gasolina",
-    "cambio": "manual",
-    "precio_contado": 8299,
+    "id_anuncio": "efb974a0-ae83-408e-9f86-cb5c56b1f847",
+    "url": "https://www.autohero.com/es/fiat-500-e/id/efb974a0-ae83-408e-9f86-cb5c56b1f847/",
+    "marca": "Fiat",
+    "modelo": "500e",
+    "version": "electric drive 87 kW",
+    "año": 2023,
+    "km": 33212,
+    "combustible": "electrico",
+    "cambio": "automatico",
+    "precio_contado": 16999,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -3421,23 +3389,23 @@
     "precio_contado": 34499,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "896e0def-f683-4e2a-8a26-9fc6e4f4e758",
-    "url": "https://www.autohero.com/es/kia-ceed/id/896e0def-f683-4e2a-8a26-9fc6e4f4e758/",
-    "marca": "Kia",
-    "modelo": "cee'd",
-    "version": "1.0 TGDI X-Tech",
+    "id_anuncio": "233335f6-6e86-456a-a0a2-9b2ae3058867",
+    "url": "https://www.autohero.com/es/citroen-c-3/id/233335f6-6e86-456a-a0a2-9b2ae3058867/",
+    "marca": "Citroen",
+    "modelo": "C 3",
+    "version": "1.2 PureTech Shine",
     "año": 2017,
-    "km": 85904,
+    "km": 76864,
     "combustible": "gasolina",
     "cambio": "manual",
-    "precio_contado": 10999,
+    "precio_contado": 8299,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -3453,23 +3421,23 @@
     "precio_contado": 12299,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "35e7ca95-e7ef-4865-8162-c927a8f663c9",
-    "url": "https://www.autohero.com/es/mazda-6/id/35e7ca95-e7ef-4865-8162-c927a8f663c9/",
-    "marca": "Mazda",
-    "modelo": "6",
-    "version": "2.5 SKYACTIV-G Takumi",
-    "año": 2023,
-    "km": 54577,
+    "id_anuncio": "896e0def-f683-4e2a-8a26-9fc6e4f4e758",
+    "url": "https://www.autohero.com/es/kia-ceed/id/896e0def-f683-4e2a-8a26-9fc6e4f4e758/",
+    "marca": "Kia",
+    "modelo": "cee'd",
+    "version": "1.0 TGDI X-Tech",
+    "año": 2017,
+    "km": 85904,
     "combustible": "gasolina",
-    "cambio": "automatico",
-    "precio_contado": 27099,
+    "cambio": "manual",
+    "precio_contado": 10999,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -3485,23 +3453,23 @@
     "precio_contado": 17599,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "681d3707-b01f-4a7b-ac95-8b199ee4d339",
-    "url": "https://www.autohero.com/es/hyundai-i-20/id/681d3707-b01f-4a7b-ac95-8b199ee4d339/",
-    "marca": "Hyundai",
-    "modelo": "i20",
-    "version": "1.0 T-GDI Techno",
-    "año": 2019,
-    "km": 29744,
+    "id_anuncio": "35e7ca95-e7ef-4865-8162-c927a8f663c9",
+    "url": "https://www.autohero.com/es/mazda-6/id/35e7ca95-e7ef-4865-8162-c927a8f663c9/",
+    "marca": "Mazda",
+    "modelo": "6",
+    "version": "2.5 SKYACTIV-G Takumi",
+    "año": 2023,
+    "km": 54577,
     "combustible": "gasolina",
-    "cambio": "manual",
-    "precio_contado": 12999,
+    "cambio": "automatico",
+    "precio_contado": 27099,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -3517,23 +3485,23 @@
     "precio_contado": 22599,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "d2d822cf-0965-4d07-844d-5bba93933e3c",
-    "url": "https://www.autohero.com/es/mercedes-benz-clase-gla/id/d2d822cf-0965-4d07-844d-5bba93933e3c/",
-    "marca": "Mercedes-Benz",
-    "modelo": "Clase GLA",
-    "version": "GLA 200 d Progressive",
-    "año": 2021,
-    "km": 23537,
-    "combustible": "diesel",
-    "cambio": "automatico",
-    "precio_contado": 31499,
+    "id_anuncio": "681d3707-b01f-4a7b-ac95-8b199ee4d339",
+    "url": "https://www.autohero.com/es/hyundai-i-20/id/681d3707-b01f-4a7b-ac95-8b199ee4d339/",
+    "marca": "Hyundai",
+    "modelo": "i20",
+    "version": "1.0 T-GDI Techno",
+    "año": 2019,
+    "km": 29744,
+    "combustible": "gasolina",
+    "cambio": "manual",
+    "precio_contado": 12999,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -3549,23 +3517,23 @@
     "precio_contado": 15099,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "257c7106-0e3a-4a6b-ad66-dd73b29d4b8a",
-    "url": "https://www.autohero.com/es/opel-corsa/id/257c7106-0e3a-4a6b-ad66-dd73b29d4b8a/",
-    "marca": "Opel",
-    "modelo": "Corsa",
-    "version": "electric drive 100 kW Design & Tech",
-    "año": 2022,
-    "km": 50069,
-    "combustible": "electrico",
+    "id_anuncio": "d2d822cf-0965-4d07-844d-5bba93933e3c",
+    "url": "https://www.autohero.com/es/mercedes-benz-clase-gla/id/d2d822cf-0965-4d07-844d-5bba93933e3c/",
+    "marca": "Mercedes-Benz",
+    "modelo": "Clase GLA",
+    "version": "GLA 200 d Progressive",
+    "año": 2021,
+    "km": 23537,
+    "combustible": "diesel",
     "cambio": "automatico",
-    "precio_contado": 15199,
+    "precio_contado": 31499,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -3581,23 +3549,23 @@
     "precio_contado": 10899,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "e1681d31-96db-4700-9a58-b9fd98536e9c",
-    "url": "https://www.autohero.com/es/opel-mokka-x/id/e1681d31-96db-4700-9a58-b9fd98536e9c/",
+    "id_anuncio": "257c7106-0e3a-4a6b-ad66-dd73b29d4b8a",
+    "url": "https://www.autohero.com/es/opel-corsa/id/257c7106-0e3a-4a6b-ad66-dd73b29d4b8a/",
     "marca": "Opel",
-    "modelo": "Mokka X",
-    "version": "1.4 Turbo Innovation Start/Stop",
-    "año": 2018,
-    "km": 88777,
-    "combustible": "gasolina",
-    "cambio": "manual",
-    "precio_contado": 11999,
+    "modelo": "Corsa",
+    "version": "electric drive 100 kW Design & Tech",
+    "año": 2022,
+    "km": 50069,
+    "combustible": "electrico",
+    "cambio": "automatico",
+    "precio_contado": 15199,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -3613,23 +3581,23 @@
     "precio_contado": 7799,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "9cc9d069-40d9-405a-a940-b340f91ac01a",
-    "url": "https://www.autohero.com/es/bmw-serie-1/id/9cc9d069-40d9-405a-a940-b340f91ac01a/",
-    "marca": "BMW",
-    "modelo": "Serie 1",
-    "version": "118d M Sport",
-    "año": 2017,
-    "km": 68596,
-    "combustible": "diesel",
-    "cambio": "automatico",
-    "precio_contado": 17699,
+    "id_anuncio": "e1681d31-96db-4700-9a58-b9fd98536e9c",
+    "url": "https://www.autohero.com/es/opel-mokka-x/id/e1681d31-96db-4700-9a58-b9fd98536e9c/",
+    "marca": "Opel",
+    "modelo": "Mokka X",
+    "version": "1.4 Turbo Innovation Start/Stop",
+    "año": 2018,
+    "km": 88777,
+    "combustible": "gasolina",
+    "cambio": "manual",
+    "precio_contado": 11999,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -3645,23 +3613,23 @@
     "precio_contado": 8399,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "196dcfa9-efad-4034-9ee1-69ab45f07a49",
-    "url": "https://www.autohero.com/es/citroen-c-4-cactus/id/196dcfa9-efad-4034-9ee1-69ab45f07a49/",
-    "marca": "Citroen",
-    "modelo": "C4 Cactus",
-    "version": "1.2 PureTech Feel",
-    "año": 2015,
-    "km": 84672,
-    "combustible": "gasolina",
-    "cambio": "manual",
-    "precio_contado": 7099,
+    "id_anuncio": "9cc9d069-40d9-405a-a940-b340f91ac01a",
+    "url": "https://www.autohero.com/es/bmw-serie-1/id/9cc9d069-40d9-405a-a940-b340f91ac01a/",
+    "marca": "BMW",
+    "modelo": "Serie 1",
+    "version": "118d M Sport",
+    "año": 2017,
+    "km": 68596,
+    "combustible": "diesel",
+    "cambio": "automatico",
+    "precio_contado": 17699,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -3677,23 +3645,23 @@
     "precio_contado": 20499,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "4149b9a7-6ede-4d15-864f-40b56e0efe79",
-    "url": "https://www.autohero.com/es/opel-corsa/id/4149b9a7-6ede-4d15-864f-40b56e0efe79/",
-    "marca": "Opel",
-    "modelo": "Corsa",
-    "version": "1.4 Selective",
-    "año": 2018,
-    "km": 62780,
+    "id_anuncio": "196dcfa9-efad-4034-9ee1-69ab45f07a49",
+    "url": "https://www.autohero.com/es/citroen-c-4-cactus/id/196dcfa9-efad-4034-9ee1-69ab45f07a49/",
+    "marca": "Citroen",
+    "modelo": "C4 Cactus",
+    "version": "1.2 PureTech Feel",
+    "año": 2015,
+    "km": 84672,
     "combustible": "gasolina",
     "cambio": "manual",
-    "precio_contado": 9699,
+    "precio_contado": 7099,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -3709,23 +3677,23 @@
     "precio_contado": 11499,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "7fc458b6-490b-4d56-be65-c598b5abd2b7",
-    "url": "https://www.autohero.com/es/renault-megane/id/7fc458b6-490b-4d56-be65-c598b5abd2b7/",
-    "marca": "Renault",
-    "modelo": "Megane",
-    "version": "1.5 BLUE dCi Business",
-    "año": 2021,
-    "km": 115747,
-    "combustible": "diesel",
+    "id_anuncio": "4149b9a7-6ede-4d15-864f-40b56e0efe79",
+    "url": "https://www.autohero.com/es/opel-corsa/id/4149b9a7-6ede-4d15-864f-40b56e0efe79/",
+    "marca": "Opel",
+    "modelo": "Corsa",
+    "version": "1.4 Selective",
+    "año": 2018,
+    "km": 62780,
+    "combustible": "gasolina",
     "cambio": "manual",
-    "precio_contado": 13799,
+    "precio_contado": 9699,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -3741,23 +3709,23 @@
     "precio_contado": 9499,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "e6d6ea31-6184-4050-aa1f-3401efc3d0c3",
-    "url": "https://www.autohero.com/es/fiat-500/id/e6d6ea31-6184-4050-aa1f-3401efc3d0c3/",
-    "marca": "Fiat",
-    "modelo": "500",
-    "version": "1.0 Mild-Hybrid DolceVita",
+    "id_anuncio": "7fc458b6-490b-4d56-be65-c598b5abd2b7",
+    "url": "https://www.autohero.com/es/renault-megane/id/7fc458b6-490b-4d56-be65-c598b5abd2b7/",
+    "marca": "Renault",
+    "modelo": "Megane",
+    "version": "1.5 BLUE dCi Business",
     "año": 2021,
-    "km": 40242,
-    "combustible": "hibrido",
+    "km": 115747,
+    "combustible": "diesel",
     "cambio": "manual",
-    "precio_contado": 11799,
+    "precio_contado": 13799,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -3773,23 +3741,23 @@
     "precio_contado": 26899,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "53e77b3a-1aba-424a-8c9b-684d047b1866",
-    "url": "https://www.autohero.com/es/kia-niro/id/53e77b3a-1aba-424a-8c9b-684d047b1866/",
-    "marca": "Kia",
-    "modelo": "Niro",
-    "version": "1.6 Hybrid Drive",
-    "año": 2018,
-    "km": 86529,
+    "id_anuncio": "e6d6ea31-6184-4050-aa1f-3401efc3d0c3",
+    "url": "https://www.autohero.com/es/fiat-500/id/e6d6ea31-6184-4050-aa1f-3401efc3d0c3/",
+    "marca": "Fiat",
+    "modelo": "500",
+    "version": "1.0 Mild-Hybrid DolceVita",
+    "año": 2021,
+    "km": 40242,
     "combustible": "hibrido",
-    "cambio": "automatico",
-    "precio_contado": 15199,
+    "cambio": "manual",
+    "precio_contado": 11799,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -3805,23 +3773,23 @@
     "precio_contado": 22799,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
-    "id_anuncio": "887fe84a-df2b-4d14-88eb-211136ff6e12",
-    "url": "https://www.autohero.com/es/toyota-rav-4/id/887fe84a-df2b-4d14-88eb-211136ff6e12/",
-    "marca": "Toyota",
-    "modelo": "RAV 4",
-    "version": "2.5 Hybrid Feel!",
-    "año": 2016,
-    "km": 90791,
+    "id_anuncio": "53e77b3a-1aba-424a-8c9b-684d047b1866",
+    "url": "https://www.autohero.com/es/kia-niro/id/53e77b3a-1aba-424a-8c9b-684d047b1866/",
+    "marca": "Kia",
+    "modelo": "Niro",
+    "version": "1.6 Hybrid Drive",
+    "año": 2018,
+    "km": 86529,
     "combustible": "hibrido",
     "cambio": "automatico",
-    "precio_contado": 22299,
+    "precio_contado": 15199,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
   },
   {
     "fuente": "autohero",
@@ -3837,6 +3805,38 @@
     "precio_contado": 12099,
     "provincia": "Toledo",
     "tipo_vendedor": "profesional",
-    "fecha_recogida": "2026-11-22"
+    "fecha_recogida": "2026-11-23"
+  },
+  {
+    "fuente": "autohero",
+    "id_anuncio": "887fe84a-df2b-4d14-88eb-211136ff6e12",
+    "url": "https://www.autohero.com/es/toyota-rav-4/id/887fe84a-df2b-4d14-88eb-211136ff6e12/",
+    "marca": "Toyota",
+    "modelo": "RAV 4",
+    "version": "2.5 Hybrid Feel!",
+    "año": 2016,
+    "km": 90791,
+    "combustible": "hibrido",
+    "cambio": "automatico",
+    "precio_contado": 22299,
+    "provincia": "Toledo",
+    "tipo_vendedor": "profesional",
+    "fecha_recogida": "2026-11-23"
+  },
+  {
+    "fuente": "autohero",
+    "id_anuncio": "4a20a9f8-e0d9-4426-8b59-3521e72a3911",
+    "url": "https://www.autohero.com/es/citroen-c-5-aircross/id/4a20a9f8-e0d9-4426-8b59-3521e72a3911/",
+    "marca": "Citroen",
+    "modelo": "C5 Aircross",
+    "version": "2.0 Blue-HDi Shine",
+    "año": 2019,
+    "km": 137265,
+    "combustible": "diesel",
+    "cambio": "automatico",
+    "precio_contado": 13399,
+    "provincia": "Toledo",
+    "tipo_vendedor": "profesional",
+    "fecha_recogida": "2026-11-23"
   }
 ]
